@@ -6,10 +6,9 @@ Document Version: 01/01/2019
 ---
 
 
-
 This work is licensed under the Creative Commons Attribution 3.0 Unported License.  To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-This work was adapted from an original GeoAcademy course and continues to be modified and improved. Credit to GeoAcademy for inspiring this open course format.
+Also, credit to GeoAcademy for inspiring this open course format.
 
 ---
 
@@ -23,19 +22,19 @@ This module includes the following lessons:
 +	Lesson 2 – Search and Share
 +	Lesson 3 – Present with StoryScapes
 
-Each lesson is planned to take about XXXX minutes to complete. Combined, this module should take XXX hours to complete (assuming ten minute breaks between each Lesson).
+Each lesson is planned to take about 30 minutes to complete. Combined, this module should take two hours to complete (assuming ten minute breaks between each Lesson).
 
 ## Lesson 1: Build a Profile
 
 ##### Objective
 
-In this lesson students will learn to login and build your StoryScapes profile.
+In this lesson students will learn to login and build a StoryScapes profile.
 
 ### Lecture
 
-While anyone with access to the StoryScapes platform can _view_ published content, such as StoryLayers or StoryScapes, only users that are logged in can _create_ content. StoryScapes operates similarly to popular social media platforms like YouTube and Twitter in this area.
+While anyone with access to the StoryScapes platform can _view_ published content, such as StoryLayers or StoryScapes, only users that are logged in can _create_ content. StoryScapes operates similarly to popular social media platforms like YouTube and Twitter in the sense that anyone can view content, but only regisered users can create content.
 
-This Lecture will use a completed profile as an illustration to explain the purpose of the StoryScapes profile and the elements it includes. In the Demonstration that follows we will build a new profile together. Finally, in your Task for this Lesson, you will go ahead and build your own StoryScapes profile.
+This Lecture will use a completed profile as an illustration to explain the purpose of the StoryScapes profile and the elements it includes. In the Demonstration that follows we will show a profile being built. Finally, in your Task for this Lesson, you will go ahead and build your own StoryScapes profile.
 
 ###### The Role of Identity
 
@@ -47,11 +46,28 @@ StoryScapes was built to enable knowledge-sharing amongst stakeholders across th
 
 ##### Technical requirements to use StoryScapes
 
-TBD, ie Browser
+TBD
 
 ##### Skill requirements to use StoryScapes?
 
-TBD
+StoryScapes users require a range of skills, depending on the actions they want to perform. These skills might be grouped into the following three levels:
+
+_In order to be a viewer of content created by others, you need to be able to:_
+- Perform basic computer and internet functions, like clicking, typing and navigating a web browser
+
+_In order to be an editor of StoryLayers created by others, you need to be able to:_
+- Perform basic computer and internet functions, like clicking, typing and navigating a web browser
+
+_In order to import new StoryLayer data, you will need to be able to:_
+- Perform basic computer and internet functions, like clicking, typing and navigating a web browser
+- Have expertise about the StoryLayer you are importing, such as when and where events occured
+- Have experience using Excel spreadsheets to prepare .csv files (for StoryLayers made up of just points)
+- Have experience using a desktop GIS such as ArcMap or QGIS to prepare .shp files (for StoryLayers made up of lines or polygons)
+
+_In order to compose a StoryScape, you need to be able to:_
+- Perform basic computer and internet functions, like clicking, typing and navigating a web browser
+- Have expertise about the StoryScape you want to compose so it conveys a meaningful and accurate narrative
+- If you want to use more advanced styling functions in the StoryScapes composer, you will need to have basic knowledge of choropleth and graduated cartography techniques
 
 ##### The Anatomy of a StoryScapes profile
 
