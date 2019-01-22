@@ -8,7 +8,7 @@ Document Version: 01/01/2019
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License.  To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-This work was adapted from an original GeoAcademy course and continues to be modified and improved. Credit to GeoAcademy for inspiring this open course format.
+Also, credit to GeoAcademy for inspiring this open course format.
 
 ---
 

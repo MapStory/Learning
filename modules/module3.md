@@ -7,7 +7,7 @@ Document Version: 01/01/2019
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License.  To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-This work was adapted from an original GeoAcademy course and continues to be modified and improved. Credit to GeoAcademy for inspiring this open course format.
+Also, credit to GeoAcademy for inspiring this open course format.
 
 ---
 
@@ -114,7 +114,7 @@ In this lesson, students will learn how to import a Shapefile with polygon or li
 To import a polygon StoryLayer, you will likely use a Shapefile. If you have experience with common GIS workflows, this will be familiar to you. If not, it is a good idea to consult more comprehensive lessons on how to work with GIS data. LINKS XXX.
 
 In this Lesson we will describe how your Shapefile needs to be formatted using Boundless Desktop, a supported version of the open-source QGIS platform.
- 
+
 
 ##### Importer Modal
 
