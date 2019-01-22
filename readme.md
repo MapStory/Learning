@@ -65,7 +65,7 @@ refer to figure below).  *All figures should be placed within the 'figures' fold
 in the same directory as the Markdown document.
 
 ### Feedback
-[Open an issue][7] or [fork and submit a pull request][8] on github, or, email [Richard.Smith@tamucc.edu][6].
+[Open an issue][7] or [fork and submit a pull request][8] on github.
 
 ### License: Creative Commons 3.0 License
 
