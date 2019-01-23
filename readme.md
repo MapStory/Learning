@@ -1,7 +1,7 @@
 # StoryScapes101 - Introduction to the StoryScapes platform
 -----------
 
-**This course curriculum includes six 3-hour modules, each with three one-hour lessons.
+This course curriculum includes modules, each with three lessons. The course can be executed comfortably over three days or compressed into two. Lessons and Modules are cumulative and should be completed in sequence.
 
 ### Course Modules
 
@@ -17,19 +17,28 @@
 This course was designed to provide a comprehensive introduction to the StoryScapes platform to geoint professionals. Those who complete the course should feel comfortable integrating StoryScapes
 into a range of geoint tasks, from managing and visualizing spatio-temporal data to adding analytical nuance to data that supports decision-making.
 
-This course is a living work product and will be continuously modified and improved based on user feedback and as the StoryScapes platform evolves.
+### Course Architecture
+
+Since StoryScapes is a platform that is constantly improving and dedicated to openness and collaboration, this course was also designed with these attributes in mind.
+
+Course modules are updated regularly using a simple markdown syntax and hosted on Github. After updates in Github, PDF versions of the Modules are rendered using `PanDoc`and made available for download at the StoryScapes `Get Started` page, where video tutorials complimenting the Modules are also available.
+
+This Course architecture has a number of benefits, including:
+- Course instructors can run a course with no software dependencies. All an instructor or course participant need is a laptop and internet connection.
+- New StoryScapes users who don't have access to a formal course can follow a self-taught model by working through Modules and video tutorials on the StoryScapes `Get Started` page.
+- Course writers can quickly and easily make updates to Modules as the StoryScapes platform evolves. The widely used Markdown syntax is easy to use, enabling new course writers to quickly get up to speed to make contributions.
+- Markdown is a language that can easily be transformed into other formats.
+- Course participants and instructors can easily provide feedback using Github issues.
 
 ### Module Design
 
-Each Module contains a folder designating which version of StoryScapes
-it is written for (ex. `Module 1 Lab\StoryScapes 1.0\...`).  As new StoryScapes versions are released, the prior module version will be updated and stored in a new (appropriately named) folder.
+Each of the six course Modules has three lessons. The course as eighteen individual lessons in all.
 
-Each module contains the following four resources:
+Each course lesson follows a three-part sequence: Listen>Watch>Do. The Listen/Watch/Do mehodology is a common learning methodology. It moves the learner through a process of hearing or reading new concepts, which they retain bits of, to watching someone apply concepts in practice, which they return more of, to finally applying the practice themselves, which they retain even more of.
 
-+ **Module *n* Lessons.md** - Markdown file of lessons
-+ **Module *n* Lessons.docx** - MS Word document of the lessons converted from Markdown
-+ **figures** - Folder containing all images reference in the lessons
-+ **Lessons *n* Data** - Folder containing all data referenced in the lessons. If the data is too large for GitHub, a Markdown file containing a link to the data will instead be included.
+Each course Module ends with a series of discussion questions that participants should engage in with colleagues before continuing on to the next Module.
+
+### Course Style Guide
 
 Each lesson within the module begins with a lesson title.
 
@@ -42,51 +51,23 @@ An attribution block is next as we always want to give proper attribution.
 
 + This Markdown document contains the attribution block:
 [Attribution Block for Lab Documents.md][5].
-+ Lab number and titles are always size Header 2 `## Lab n: Lab Title` and are the
-only size Header 2 in the lab document.
++ Lab number and titles are always size Header 2
 
 Next, Lecture, Demo and Task content is provided.
 
 + These three sections are always size Header 3.
 
-The lab Tasks (logical blocks of content) are next.
+The last two sections of the Module are Conclusion and Questions.
 
-+ The last Task is always a challenge for the students to attempt on their own
-without (m)any step-by-step instructions.
++ These two sections are always size Header 3 `### Conclusion`.
 
-The last two sections are Conclusion and Questions.
-
-+ These two sections are always size Header 3 `### Conclusion` and are always
-sections 4 and 5 respectively.
-
-When a figure is placed in the lesson document, the figure is never provided a number,
+When an image is placed in the lesson document, the image is never provided a number,
 instead, it is referred to by its relative placement to the referring text (ex.
-refer to figure below).  *All figures should be placed within the 'figures' folder
+refer to image below).  *All images should be placed within the 'images' folder
 in the same directory as the Markdown document.
-
-### Feedback
-[Open an issue][7] or [fork and submit a pull request][8] on github.
 
 ### License: Creative Commons 3.0 License
 
 This work is licensed under the Creative Commons Attribution 3.0 Unported License.  To view a copy of this license, visit <http://creativecommons.org/licenses/by/3.0/>.F
 
-### Curriculum Document Format
-All curriculum is written in [Markdown][3].  Markdown was chosen for these reasons:
-
-+ [Markdown][3] is easy to learn and contains enough functionality to render the lessons.
-+ With the lab documents converted to Markdown, GitHub can track all changes
-to the document; this is not possible with, say, a Word or PDF document.
-+ It is very easy to convert Markdown to multiple other formats using software
-such as [PanDoc][4].
-
 _Note: We are grateful to the GeoAcademy project for inspiring our open course design using Markdown._
-
-[1]: http://www.geoforall.org/
-[2]: http://spatialquerylab.com/projects/open-source-gis/
-[3]: http://daringfireball.net/projects/markdown/syntax
-[4]: http://johnmacfarlane.net/pandoc/
-[5]: Attribution_Block_for_Lab_Documents.md
-[6]: mailto:Richard.Smith@tamucc.edu
-[7]: https://guides.github.com/features/issues/
-[8]: https://guides.github.com/activities/forking/
