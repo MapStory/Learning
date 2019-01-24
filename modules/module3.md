@@ -19,9 +19,9 @@ This module includes the following lessons:
 
 +	Lesson 1 – Importing point StoryLayers
 +	Lesson 2 – Importing polygon StoryLayers
-+	Lesson 3 – Creating StoryLayers from scratch.
++	Lesson 3 – Creating StoryLayers from scratch
 
-Each lesson is planned to take about XXXX minutes to complete. Combined, this module should take XXX hours to complete (assuming ten minute breaks between each Lesson).
+Each lesson is planned to take about 30 minutes to complete. Combined, this module should take two hours to complete (assuming ten minute breaks between each Lesson).
 
 ## Lesson 1: Importing point StoryLayers
 ##### Objective
