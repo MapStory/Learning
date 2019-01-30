@@ -43,11 +43,11 @@ A Community Initiative simply empowers crowdsourcing and collaboration around a 
 
 Community Initiatives are publically accessible via a special account page. They can be accessed by going to the StoryScapes `Explore` page and filtering for `Teams`.
 
-![SCREENSHOT](/images/Screen Shot 2019-01-24 at 11.41.53 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-24 at 11.41.53 AM.jpg)
 
 On the Community Initiative page you will see the StoryLayers and StoryScapes that are associated with the Community Initiative, as well as the Organizers and Members of the Community Initiative.
 
-![SCREENSHOT](/images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)
 
 ##### Becoming a Community Initiative Organizer
 
@@ -59,15 +59,15 @@ If you have a Community Initiative you would like to see launched on StoryScapes
 
 If you have been given Organizer status on a Community Initiative, you click `Manage` on the Community Initiative page to customize basic information about your Community Initiative.
 
-![SCREENSHOT](/images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)
 
 To add StoryLayers and StoryScapes to your Community Initiative page, you simply go to the StoryLayer or StoryScape page. You will see an option to add the content to the Community Initiative that you are an Organizer for.
 
-![SCREENSHOT](/images/Screen Shot 2019-01-24 at 12.33.44 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-24 at 12.33.44 PM.jpg)
 
 StoryTellers can also request to become Members of your Community Initiative. This is simply a way for you to indicate people that are supportive of your Community Initiative and are helping with the work in some way. A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page. You can accept or reject these requests from the management page for the Community Initiative.
 
-![SCREENSHOT](/images/Screen Shot 2019-01-24 at 12.37.20 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-24 at 12.37.20 PM.jpg)
 
 ### Demonstration
 
@@ -96,11 +96,11 @@ Organization Accounts are very similar in structure to Community Initiative page
 
 Organization Accounts are hosted on a special account page inside StoryScapes. They can be accessed by going to the StoryScapes `Explore` page and filtering for `Teams`.
 
-![](/images/Screen Shot 2019-01-24 at 12.47.55 PM.jpg)
+![](images/Screen Shot 2019-01-24 at 12.47.55 PM.jpg)
 
 On the Organization Account page you will see the StoryLayers and StoryScapes that are associated with the Organization, as well as the Organizers and Members of the Organization.
 
-![](/images/Screen Shot 2019-01-24 at 12.52.54 PM.jpg)
+![](images/Screen Shot 2019-01-24 at 12.52.54 PM.jpg)
 
 ##### Setting up an Organization Account
 
@@ -110,11 +110,11 @@ When you are ready to set up an Organization Account for your work unit, you wil
 
 If you have been given Organizer status on an Organization page, you click `Manage` on the public Organization page to customize basic information about your Organization.
 
-![](/images/Screen Shot 2019-01-24 at 12.52.54 PM.jpg)
+![](images/Screen Shot 2019-01-24 at 12.52.54 PM.jpg)
 
 To add StoryLayers and StoryScapes to your Organization page, you simply go to the StoryLayer or StoryScape page. You will see an option to add the content to the Organization that you are an Organizer for.
 
-![](/images/Screen Shot 2019-01-24 at 12.56.23 PM.jpg)
+![](images/Screen Shot 2019-01-24 at 12.56.23 PM.jpg)
 
 StoryScapes users can also request to become Members of your Organization. This is simply a way for you to indicate people that are involved in your Organization.A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page.
 
