@@ -38,13 +38,13 @@ Choropleth styling assigns a hue of a _color_ to a feature based on the magnitud
 
 For example, below we show a chapter from a StoryScape that depicts the numbers of civilians killed in the Syrian Civil War by governorate (a subnational unit in Syria). As the number of civilians killed in a governorate increases, the shade of red used to color the governorate becomes a darker red, or even a purple.
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 1.50.10 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 1.50.10 PM.jpg)\
 
 To use Choropleth styling when composing a StoryScape, first make sure there is a StoryLayer that has a numerical attribute for you to use in StoryScapes. If you're not sure if a StoryLayer has a numerical attribute to use with Choropleth styling, you can go to the StoryLayers page and look at the table of its attributes.
 
 You can see below that the page for the StoryLayer about Syrian governorates used in the example above shows that the StoryLayers has several attributes with numerical data.
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 1.58.09 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 1.58.09 PM.jpg)\
 
 The exact procedure for using Choropleth styling will differ depending on the StoryLayer you are using and the data it contains, but the essential steps will be the same.
 
@@ -58,13 +58,13 @@ Now you are ready to add a StoryLayer.
 
 In this example, we have added the StoryLayer depicting casualities by Syrian governorates, as has been referenced previously in the lesson:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 2.16.30 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 2.16.30 PM.jpg)\
 
 In the left-hand sidebar of the composer, we see the name of the StoryLayer and green buttons where we can `Style` the StoryLayer, toggle its `Visibility` and `Delete` it from the StoryScape.
 
 Click `Style` to open up the style editor. This should look familiar from your work with `Simple` and `Unique` styling from Module 2. This time, we want to select the `Choropleth` styling option. This will customize the set of tools in the style editor that are appropriate for a choropleth style:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 2.21.20 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 2.21.20 PM.jpg)\
 
 Now we can make selections in the rest of the style editor to customize the choropleth style for the StoryLayer. In this example we do the following:
 
@@ -98,7 +98,7 @@ StoryScapes allows you to alter and customize any of the pre-selected colors, bu
 
 At this point, our choropleth style for the StoryLayer looks like this:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 2.47.17 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 2.47.17 PM.jpg)\
 
 As the StoryLayer plays, governorates with higher casualties appear in darker red, purple and even blue colors as the casualties increase.
 
@@ -114,7 +114,7 @@ Let's look at an example.
 
 Below we see the page of a StoryLayer that depicts terrorist attacks claimed by ISIS from around the world in recent years. This StoryLayer happens to have an attribute for `Casualties` that lists the number of casualties suffered from each ISIS attack. We can see that ISIS attacks in this StoryLayer have an average of 30 casualties and a median of five.
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 3.49.44 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 3.49.44 PM.jpg)\
 
 In the StoryScapes composer, we can add this StoryLayer to a StoryScape, and select the `Graduated` styling option in order to help us show visually which ISIS attacks resulted in greater numbers of casualties.
 
@@ -142,11 +142,11 @@ Fourth, customize the `Label` for your symbol, if you would like a label. For ex
 Finally, under the `Rules` section, StoryScapes will automatically generate a feature size for each of the group bins you selected. In this example, we have five group bins that have been naturally broken up. Bin 1 includes ISIS attacks with 0-19 casualties. Bin 2 includes ISIS attacks with 19-59 casualties. And so forth. As a user, I can manually change the preset feature sizes. In this example, we've increased the feature sizes and left a 5-point interval between each. So, Bin 1 with the least casualties has a feature size of 7, while Bin 5 with the most casualties (range of 347-498) has a feature size of 27.
 
 Here is our ISIS attacks StoryLayer with graduated style at a global view:
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 3.22.48 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 3.22.48 PM.jpg)\
 
 And here we've zoomed in a bit more over Europe, the Middle East and North Africa to more clearly depict the different graduated sizes of each ISIS attack feature. We can clearly see that some more major attacks occured in Paris, Nigeria, and Turkey and that many smaller attacks have occurred along the North African coast.
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 3.23.35 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 3.23.35 PM.jpg)\
 
 ### Demonstration
 
@@ -177,13 +177,13 @@ If you have access to openly licenses icons, you can simply upload them to Story
 
 To upload new icons to StoryScapes, click `Upload Icons` in the `Create` drop-down at the top of your screen. This opens up a simple modal that looks like this:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.40.12 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.40.12 PM.jpg)\
 
 Icons must be in a .svg format to be uploaded into Storyscapes. You can either import a single Icon as an .svg, or upload a set of icons as a .zip file. Add a Tag for the icon(s) to help others understand what the icon depicts.
 
 Once uploaded, your icons you will appear on your user profile so that other users of StoryScapes can see which icons you contributed. Here's a user profile with the icons imported:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.41.00 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.41.00 PM.jpg)\
 
 ##### Adding icons to styles for point StoryLayers in the StoryScapes composer
 
@@ -199,7 +199,7 @@ Second, add a StoryLayer made up of points to your StoryScape.
 
 In this example, we have added the StoryLayer depicting Russian-backed airstrikes into Syria during the Syrian Civil War.
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.50.00 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.50.00 PM.jpg)\
 
 In the left-hand sidebar of the composer, we see the name of the StoryLayer and green buttons where we can `Style` the StoryLayer, toggle its `Visibility` and `Delete` it from the StoryScape.
 
@@ -211,15 +211,15 @@ This time, we want to select the `Simple` styling option again. This will custom
 
 To apply a custom icon to the point StoryLayer, you will click the `Marker` drop-down. In this drop-down box you will see a handful of common icons, such as a circle, square and star. You'll also see the button to open the `Icon Commons`:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.50.13 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.50.13 PM.jpg)\
 
 The Icons Commons modal lets you search all of the icons that users have uploaded. You can scroll through them, or search by Tags:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.49.44 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.49.44 PM.jpg)\
 
 In this example, we select an icon of the Russian flag and click `Ok`. Now, the points in the StoryLayer appear with a Russian flag instead of the default orange circle:
 
-![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.50.56 PM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-27 at 5.50.56 PM.jpg)\
 
 ### Demonstration
 
@@ -256,13 +256,13 @@ To add an image or video to your StoryPin, you will paste the _embed_ link for t
 
 Once you have added all of this information, update the map. The StoryPin will now appear in the chapter during the timeframe you indicated.
 
-![SCREENSHOT]()
+![SCREENSHOT]()\
 
 ##### Adding many StoryPins with Media all at once
 
 To add lots of StoryPins with media at once, you will download a blank .CSV file with pre-set column headers for the information you need to have for each StoryPin. This includes the embed link you need to add for your media. Once you’ve populated the CSV with your StoryPin information, return to the composer and upload your StoryPins. Once the StoryPins are added to your StoryScape, you will likely need to click into each StoryPin individually and confirm the settings are as you want them to be.
 
-![SCREENSHOT]()
+![SCREENSHOT]()\
 
 ### Demonstration
 

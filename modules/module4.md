@@ -48,7 +48,7 @@ There are five reasons you might want to Flag a StoryLayer:
 
 To submit your Flag, simply click on Flag tool on a StoryLayer page. Select the Flag option you prefer and add any descriptive text that might be helpful. Click Submit.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")
+![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 ##### Rating a StoryLayer
 
@@ -60,7 +60,7 @@ The 5-star rating is another tool to help Storytellers determine if a StoryLayer
 
 To add your rating, simply find the rating tool on a StoryLayer page. Place your mouse on top of the star you'd like to assign, and Click.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")
+![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 
 ##### Commenting on a Storylayer
@@ -72,7 +72,7 @@ Add a public Comment to a StoryLayer to communicate a message you feel all Story
 
 To add your Comment, find the Share tab on a StoryLayer page. Simply type your Comment and click Post.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")
+![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 ### Demonstration
 
@@ -114,7 +114,7 @@ _Add one new feature geometry_:
 
 When you want to make any kind of change to a StoryLayer, you begin by clicking "Edit" from the StoryLayer detail page.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")
+![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 In the StoryScapes Editor you will see the following buttons on the left-hand side:
 + Add Feature
@@ -126,7 +126,7 @@ In the StoryScapes Editor you will see the following buttons on the left-hand si
 
 You can also select a basemap that provides the view on the map that you prefer.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")
+![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 To add one new feature, click Add Feature.
 

@@ -75,7 +75,7 @@ The StoryScapes profile was designed to serve as both a place to manage your wor
 
 You can always access your profile by clicking on the avatar at the top of your screen, located between the `Get Started` button and `Quick Search` box.
 
-![](images/Screen Shot 2019-01-21 at 5.50.32 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 5.50.32 PM.jpg)\
 
 ##### Sidebar fields
 
@@ -89,8 +89,7 @@ On your public Profile you'll see a set of tabs going across the center of the p
 
 Anyone logged on to StoryScapes can search for and view the profile of any other StoryTeller. Click `Explore` at the top of the screen. Then filter for `StoryTellers`. In a future lesson we will look in detail at the various ways users can search for StoryTeller accounts. For now, it is important to be aware of the various ways you and other StoryTellers can access your public Profile.
 
-![](images/Screen Shot 2019-01-21 at 6.06.48 PM.jpg)
-
+![](images/Screen Shot 2019-01-21 at 6.06.48 PM.jpg)\
 ##### Representation elsewhere
 
 As you start to take action and create content in StoryScapes, your name will frequently appear in conjunction with these actions. For example, if you import a new StoryLayer, your name will appear as the owner of that StoryLayer. Or if you compose and publish a StoryScape, your name will appear as the owner of that StoryScape. And, if you make an edit to a StoryLayer, your name will appear alongside that edit. This will become clearer in future lessons that focus on these topics. For now, it is important to understand that when using StoryScapes, you do so as an attributed StoryTeller. StoryScapes is a collaborative platform designed to advance collective knowledge, not a private space to do your own work in anonymity.
@@ -99,7 +98,7 @@ As you start to take action and create content in StoryScapes, your name will fr
 
 To add, modify and delete personal information in your Profile, click your Avatar at the top of your screen. This will generate a drop-down menu with an option for `Edit Profile`.
 
-![](images/Screen Shot 2019-01-21 at 6.22.26 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 6.22.26 PM.jpg)\
 
 ### Demonstration
 
@@ -139,13 +138,13 @@ A StoryLayer is a data file that is used to display geographic information with 
 
 To find a StoryLayer, click `Explore` at the top of your screen. Make sure you are filtering for `Content`. On the leftside, check the `StoryLayers` box so only StoryLayers show in the `Content` filter.
 
-![](images/Screen Shot 2019-01-21 at 6.31.51 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 6.31.51 PM.jpg)\
 
 The sidebar in `Explore` also lets you refine your search on a number of parameters. You can filter content by pre-set `Categories`, by user-generated `Tags`, or by the Storyteller that imported the StoryLayer.
 
 Click on a StoryLayer card. This will take you to the StoryLayer's page.
 
-![](images/Screen Shot 2019-01-21 at 6.33.59 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 6.33.59 PM.jpg)\
 
 From there you can take a variety of actions, including:
 
@@ -162,11 +161,11 @@ You cand search for StoryScapes in much the same way that you can StoryLayers. G
 
 You can further refine your search by filtering StoryScapes by pre-set `Categories`, by user-generated `Tags`, or by the Storyteller that composed the StoryScape.
 
-![](images/Screen Shot 2019-01-21 at 8.08.41 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 8.08.41 PM.jpg)\
 
 Once you find a StoryScape you'd like to view, click on the StoryScape card. This will take you to the StoryScape's page.
 
-![](images/Screen Shot 2019-01-21 at 8.12.35 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 8.12.35 PM.jpg)\
 
 From this page, you can take a variety of actions, such as:
 
@@ -180,7 +179,7 @@ In StoryScapes, we refer to individual users as "Storytellers". You can browse a
 
 Filters on the left side of the screen help you narrow your search for Storytellers. You can search for individual Storytellers by name or filter by the city or country where a Storyteller is located or by the Storyteller's topical interest areas.
 
-![](images/Screen Shot 2019-01-21 at 6.06.48 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 6.06.48 PM.jpg)\
 
 ##### Sharing StoryLayers and StoryScapes
 
@@ -203,7 +202,7 @@ TBD
 
 You may want to download a StoryLayer's data in a common format, such as a CSV or Shapefile, and share it with a colleague. This capability is available to any registered StoryLayer. Navigate to any StoryLayer page and click `Download StoryLayer`. Then select the format for your download.
 
-![](images/Screen Shot 2019-01-21 at 8.23.33 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 8.23.33 PM.jpg)\
 
 ##### Share as a GeoPackage (MapStories only)
 
@@ -238,7 +237,7 @@ A published StoryScape is similar to other presentation oriented media, such as 
 
 Once you have discovered a StoryScape you want to present with, first take some time to read about the StoryScape and the chapters it includes, if it has more than one chapter. Also take a look at the StoryLayers that were used to create the StoryScape to help you make judgements about the quality of data they contain. Who were the StoryLayers imported by? Do you trust these sources? Have the StoryLayers been edited much at all? How are they rated? These are questions to ask before deciding the StoryScape is of enough quality to use in your presentation.
 
-*Note - If in your assessment of the StoryScape you find any issues, flag them for follow up by an administrator. Flagging with be covered in more detail in Module 3.
+\*Note - If in your assessment of the StoryScape you find any issues, flag them for follow up by an administrator. Flagging with be covered in more detail in Module 3.
 
 You can also click "favorite" to have the StoryScape show up on your profile where you can find it more easily in the future.
 
@@ -246,7 +245,7 @@ You can also click "favorite" to have the StoryScape show up on your profile whe
 
 To begin using a StoryScape in a presentation, first navigate to the page for the StoryScape you want to use.
 
-![](images/Screen Shot 2019-01-21 at 8.12.35 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 8.12.35 PM.jpg)\
 
 StoryScapes can be presented at small size, or expanded into full screen.
 
@@ -258,7 +257,7 @@ You can change the speed of the playback by using the 'fastforward' and 'rewind'
 
 In the `Playback Settings` you can also decide if you want features to play instantly or cumulatively. In instant mode, features will only appear on the map from their start time to their end time. In cumulative mode, features will appear on the map from their start time until the end of the chapter.
 
-![](images/Screen Shot 2019-01-21 at 8.34.35 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 8.34.35 PM.jpg)\
 
 Next to the Playback Settings there is a button to expand the timeline to see the distribution of features over time.
 

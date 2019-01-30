@@ -34,7 +34,7 @@ In this lesson students will learn to import a `.CSV` file with point features a
 #### Get your data "StoryScapes Ready"
 To import data, you'll use the import modal, which is accessible from your profile, from the header, or from the StoryScapes homepage.
 
-![SCREENSHOT](images/Create-Dropdown.JPG "Create Dropdown")
+![SCREENSHOT](images/Create-Dropdown.JPG "Create Dropdown")\
 
 To successfully import your data into StoryScapes, you’ll need to make sure your data conforms to the required _file, projection, and time_ formatting types.
 
@@ -64,7 +64,7 @@ Required formatting
 
 Here is an example of a dataset that is ready for import into StoryScapes. See: `module-3-csv-points.csv`
 
-![SCREENSHOT](images/sample-csv-data.JPG "See module-3-csv-points.csv")
+![SCREENSHOT](images/sample-csv-data.JPG "See module-3-csv-points.csv")\
 
 #### Importer Modal
 
@@ -72,19 +72,19 @@ Here is an example of a dataset that is ready for import into StoryScapes. See: 
  
  1. Name your StoryLayer.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-4.JPG "Name your StoryLayer")
+ ![SCREENSHOT](images/Import-Wizard-CSV-4.JPG "Name your StoryLayer")\
 
  2. Confirm that the storylayer has time attributes.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-5.JPG "Select StoryLayer Time Attribute")
+ ![SCREENSHOT](images/Import-Wizard-CSV-5.JPG "Select StoryLayer Time Attribute")\
 
  3. Configure time information.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-6.JPG "Select StoryLayer Time Attribute")
+ ![SCREENSHOT](images/Import-Wizard-CSV-6.JPG "Select StoryLayer Time Attribute")\
 
  ~~4. Enable versioned editing.~~
 
- ~~![SCREENSHOT](images/Import-Wizard-CSV-X.JPG "Enable Version Editing")~~
+ ~~![SCREENSHOT](images/Import-Wizard-CSV-X.JPG "Enable Version Editing")\~~
 
  5. Finalize upload.
 
@@ -95,7 +95,7 @@ Here is an example of a dataset that is ready for import into StoryScapes. See: 
 
 Once your StoryLayer is successfully created, you will be taken to the Metadata Modal to complete your metadata.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")
+![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 Completing high-quality metadata (or “data about the data”) for StoryLayers is absolutely vital when using StoryScapes. Without metadata, other users have no way to adjudicate the quality and reliability of content shared. StoryScapes requires the following Metadata fields for all StoryLayers:
 

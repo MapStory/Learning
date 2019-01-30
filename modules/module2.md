@@ -61,13 +61,13 @@ All stories are made up of small components that combine into a coherent whole. 
 ###### First Steps
 To get started making your own StoryScape, first launch the "StoryScapes Composer" from the top of your screen.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.33.12 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.33.12 AM.jpg)\
 
 You can also launch the StoryScape composer by going directly to a StoryLayer page and clicking "compose StoryScape". Using this link will launch the composer with that particular StoryLayer included in Chapter 1.
 
 Once you enter the StoryScape composer, your first step is to give your StoryScape a title. A good StoryScape title is similar to a good book title. It should indicate what the StoryScape is about.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.38.19 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.38.19 AM.jpg)\
 
 In addition to a Title, you'll need to give your StoryScape a Summary. The Summary serves a similar purpose as article abstract. It describes what the StoryScape is about and why it is significant.
 
@@ -109,7 +109,7 @@ In this lesson students will learn how to add StoryLayers to a StoryScape, and t
 
 StoryLayers form the foundation of your Chapters. If a StoryScape is like a pizza, then the StoryLayers are like the crust. Everything else in a StoryScape (i.e. StoryPins and StoryFrames) sits on top of the StoryLayers. To add StoryLayers to your Chapter, click "Add StoryLayers”. A window will pop up where you can input StoryLayer titles. Click “use” to add the StoryLayer to your chapter.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.46.31 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.46.31 AM.jpg)\
 
 You can add multiple StoryLayers to each chapter. Once added, you can click and drag the StoryLayers to change which one is sent to back or front.
 
@@ -125,7 +125,7 @@ In this Module we will cover Simple and Unique styling only. In Module 5 we will
 
 With a Simple style, all aspects (color, hue and size) are uniform on all features of the StoryLayer. This style is often used if features don't need to be differentiated from one another. In the example below, a Simple blue style is used to show the total land controlled by ISIS.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.51.51 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.51.51 AM.jpg)\
 
 ##### Apply a Unique style to a StoryLayer
 
@@ -133,7 +133,7 @@ A Unique style allows you to represent features with different color based on a 
 
 In the example below, we use Unique styling to differentiate between areas that ISIS counts as territory (blue) versus areas under attack by ISIS (orange)
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.56.03 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.56.03 AM.jpg)\
 
 ### Demonstration
 
@@ -164,7 +164,7 @@ In this lesson we will build StoryPins that only have text. In Module 5 we will 
 
 To create a StoryPin, navigate to the StoryPins tab in composer. This will open up a form for creating your StoryPins.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.23.13 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.23.13 AM.jpg)\
 
 There are two ways to create StoryPins:
 1. one at a time
@@ -176,13 +176,13 @@ To add StoryPins one at a time, just give your StoryPin a title and description 
 
 In the example below, we've created a StoryPin to highlight the time and place where ISIS formally declared its Caliphate.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.27.12 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.27.12 AM.jpg)\
 
 ##### Creating lots of StoryPins at once
 
 To add lots of StoryPins at once, you will click `Import` to download a blank .CSV file with pre-set column headers for the information you need to have for each StoryPin.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.30.34 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.30.34 AM.jpg)\
 
 Once you’ve populated the CSV with your StoryPin information, return to the composer and upload your StoryPins. All of your StoryPins will then appear individually in the StoryPin sidebar so that you can further customize them individually.
 
@@ -194,7 +194,7 @@ To create a StoryFrame, open up the StoryFrame form. Give your StoryFrame a brie
 
 In the example below, we've created a StoryFrame that better focuses on a location where ISIS declared a Caliphate, a point also highlighted with a StoryPin.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.35.57 AM.jpg)
+![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.35.57 AM.jpg)\
 
 ### Demonstration
 
