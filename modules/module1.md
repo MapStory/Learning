@@ -75,7 +75,7 @@ The StoryScapes profile was designed to serve as both a place to manage your wor
 
 You can always access your profile by clicking on the avatar at the top of your screen, located between the `Get Started` button and `Quick Search` box.
 
-![](images/Screen Shot 2019-01-21 at 5.50.32 PM.jpg)
+![](images/Screen Shot 2019-01-21 at 5.50.32 PM.jpg)\
 
 ##### Sidebar fields
 
