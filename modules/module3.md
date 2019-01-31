@@ -131,7 +131,9 @@ In this lesson, students will learn how to import a Shapefile with polygon or li
 
 #### Get your data "StoryScapes Ready"
 
-To import a polygon StoryLayer, you will likely use a Shapefile. If you have experience with common GIS workflows, this will be familiar to you. If not, it is a good idea to consult more comprehensive lessons on how to work with GIS data. LINKS XXX.
+To import a polygon StoryLayer, you will likely use a Shapefile. Currently, our importer accepts **zipped** shapefiles for points, lines and polygons. If you have experience with common GIS workflows, this will be familiar to you. If not, it is a good idea to consult more comprehensive lessons on how to work with GIS data. 
+
+LINKS XXX.
 
 In this Lesson we will describe how your Shapefile needs to be formatted using Boundless Desktop, a supported version of the open-source QGIS platform.
 
@@ -139,6 +141,30 @@ In this Lesson we will describe how your Shapefile needs to be formatted using B
 #### Importer Modal
 
 Importing a polygon layer with a Shapefile is very similar to importing a point layer with a .CSV file.
+
+A key difference is that you must first zip the constitutent files into a single zipped files. 
+
+for example, if you export your shapefile you will have several files that are siblings of each other 
+
+![SCREENSHOT](images/SHP-Files-1.JPG)\
+
+When you zip these files, make sure to include _only_ the `SHP`, `SHX`, `DBF`, and `PRJ` files. 
+
+![SCREENSHOT](images/SHP-Files-2.JPG)\
+
+#### A Note on Temporal Data Format
+
+StoryScapes reads a temporal attribute (or two temporal attributes) to iterate over time. Therefore, each feature must have a _geometry_ and _time_ attribute. If you're data is arranged so that each temporal value is an attribute you will have to "stack" them. 
+
+So Data like the following: 
+
+![SCREENSHOT](images/Temporal-Data-1.JPG)\
+
+Would become something like this: 
+
+![SCREENSHOT](images/Temporal-Data-2.JPG)\
+
+For more about spatio-temporal data management see LINK TO COURSE 
 
 ### Demonstration
 
@@ -148,6 +174,11 @@ Watch this video. VIDEO.
 
 ### Tasks
 
+Now it's your turn! Try importing a Shapefile of your own. Try finding a dataset by searching publicly available repositories like the ones linked to below, or maybe you have access to some data of your own.
+
+LINKS TO DATA XXXXXXX
+
+
 ## Lesson 3: Creating StoryLayers from scratch.
 
 #### Objective
@@ -155,6 +186,7 @@ Watch this video. VIDEO.
 In this lesson students will learn how to create a new StoryLayer even if they don't have any data to import and write high-quality metadata for the empty StoryLayer.
 
 ### Lecture
+
 
 
 ### Demonstration
@@ -172,4 +204,4 @@ Now it's your turn! Try creating a new empty StoryLayer in StoryScapes. Share th
 
 ## Discussion Questions
 
-The first step in working on a project with geospatial datasets is to organize your workspace. It is important that we organize datasets logically on the computer and make them easy to find. In this task, you will obtain a copy of the lab data and explore how the data is organized using QGIS Browser.
+
