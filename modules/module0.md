@@ -17,5 +17,5 @@ This Instructor Guide is designed for individuals who are teaching the StoryScap
 This module includes the following sections:
 
 +	Section 1 – Overview of Course & Instructor Requirements
-+	Section 2– Slides that can be used on a screen to complete Lessons during an in-person course
-+	Sectio 3 – An annotated version of course modules that the instructor can use as a reference during instruction. 
++ Section 2 – Instructors Notes that correspond to course content and can be used to support instruction.
++	Section 3 – Slides that can be used on a classroom screen to complement instruction during an in-person course

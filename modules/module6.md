@@ -17,7 +17,7 @@ In this Module, students will learn to use StoryScapes as a platform to support 
 
 StoryScapes provides two special profile types to support collaboration among StoryTellers working on a common theme and StoryTellers working within the same organization.
 
-Additionally, StoryScapes provides mechanisms for StoryTellers to support the ongoing improvement of the StoryScapes platform. As an open-source and agile project, StoryScapes relies on a wide community of users, developers and sponsors to contunously grow and improve to meet user needs.
+Additionally, StoryScapes provides mechanisms for StoryTellers to support the ongoing improvement of the StoryScapes platform. As an open-source and agile project, StoryScapes relies on a wide community of users, developers and sponsors to continuously grow and improve to meet user needs.
 
 This module includes the following lessons:
 
@@ -29,8 +29,10 @@ Each Lesson is planned to take about 30 minutes to complete. Combined, this modu
 
 
 ## Lesson 1: Organizing Community Initiatives
+
 ##### Objective
 In this lesson, students will learn to start and lead a Community Initiative.
+
 ### Lecture
 
 A Community Initiative is an effort by StoryTellers to collect StoryLayer data around a common theme.
@@ -43,11 +45,11 @@ A Community Initiative simply empowers crowdsourcing and collaboration around a 
 
 Community Initiatives are publically accessible via a special account page. They can be accessed by going to the StoryScapes `Explore` page and filtering for `Teams`.
 
-![SCREENSHOT](images/Screen Shot 2019-01-24 at 11.41.53 AM.jpg)\
+![](images/Screen Shot 2019-01-24 at 11.41.53 AM.jpg)\
 
 On the Community Initiative page you will see the StoryLayers and StoryScapes that are associated with the Community Initiative, as well as the Organizers and Members of the Community Initiative.
 
-![SCREENSHOT](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)\
+![](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)\
 
 ##### Becoming a Community Initiative Organizer
 
@@ -59,15 +61,15 @@ If you have a Community Initiative you would like to see launched on StoryScapes
 
 If you have been given Organizer status on a Community Initiative, you click `Manage` on the Community Initiative page to customize basic information about your Community Initiative.
 
-![SCREENSHOT](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)\
+![](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)\
 
 To add StoryLayers and StoryScapes to your Community Initiative page, you simply go to the StoryLayer or StoryScape page. You will see an option to add the content to the Community Initiative that you are an Organizer for.
 
-![SCREENSHOT](images/Screen Shot 2019-01-24 at 12.33.44 PM.jpg)\
+![](images/Screen Shot 2019-01-24 at 12.33.44 PM.jpg)\
 
 StoryTellers can also request to become Members of your Community Initiative. This is simply a way for you to indicate people that are supportive of your Community Initiative and are helping with the work in some way. A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page. You can accept or reject these requests from the management page for the Community Initiative.
 
-![SCREENSHOT](images/Screen Shot 2019-01-24 at 12.37.20 PM.jpg)\
+![](images/Screen Shot 2019-01-24 at 12.37.20 PM.jpg)\
 
 ### Demonstration
 
@@ -116,13 +118,13 @@ To add StoryLayers and StoryScapes to your Organization page, you simply go to t
 
 ![](images/Screen Shot 2019-01-24 at 12.56.23 PM.jpg)\
 
-StoryScapes users can also request to become Members of your Organization. This is simply a way for you to indicate people that are involved in your Organization.A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page.
+StoryScapes users can also request to become Members of your Organization. This is simply a way for you to indicate people that are involved in your Organization. A StoryTeller can request to become a Member by clicking `Join This Organization` on any Organization page.
 
-![]()\
+![](images/Screen Shot 2019-01-30 at 6.24.03 PM.jpg)\
 
 You can accept or reject these requests from the management page for the Community Initiative.
 
-![]()\
+![](images/Screen Shot 2019-01-30 at 6.24.44 PM.jpg)\
 
 ### Demonstration
 
@@ -138,7 +140,9 @@ Now it's your turn!
 - [x] Second, think of an organization that might benefit from having an Organization Account in StoryScapes. Share your idea with a colleague.
 
 _The following tasks can be completed if your course instructor shares login information for a temporary user account with rights as a manager of an Organization Account_:
-- [x] Second, log off from your current account and log back on to StoryScapes using the test account provided by your course instruction. Go to this Organization Account page and make one improvement to the profile.
+
+- [x] Log off from your current account and log back on to StoryScapes using the test account provided by your course instruction. Go to this Organization Account page and make one improvement to the profile.
+
 - [x] Add at least one StoryLayer or StoryScape to the Organization Account.
 
 
