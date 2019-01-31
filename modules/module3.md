@@ -91,7 +91,9 @@ Here is an example of a dataset that is ready for import into StoryScapes. See: 
  ![SCREENSHOT](images/Import-Wizard-CSV-7.JPG "Confirm Upload")\
 
 
- #### Write High-Quality Metadata
+#### Write High-Quality Metadata
+
+# TODO: Metadata ModalWalkthough 
 
 Once your StoryLayer is successfully created, you will be taken to the Metadata Modal to complete your metadata.
 
@@ -107,8 +109,6 @@ Completing high-quality metadata (or “data about the data”) for StoryLayers 
 + __Purpose__: Under purpose, write about why you created this StoryLayer.  This information will help others learn whether they should use your StoryLayer in their StoryScape. For example, a StoryLayer depicting country border changes by decade would not be a good StoryLayer to use in a StoryScape about the changing territorial control of the Syrian Government by month during the Syrian Civil War.
 
 The Metadata Modal also allows the StoryLayer owner to determine if the StoryLayer should be published and therefore viewable by anyone, or private and only viewable by the StoryLayer owner. If you own the StoryLayer, you can return to the Metadata Modal and update the metadata at any time.
-
-# TODO: Metadata Modal Walkthough 
 
 ### Demonstration
 
@@ -187,7 +187,21 @@ In this lesson students will learn how to create a new StoryLayer even if they d
 
 ### Lecture
 
+#### Defining a Schema 
 
+If you don't currently have a pre-existing dataset, you can create a new schema for a StoryLayer on the website. 
+
+When designing a dataset, there are a few aspect to keep in mind. Once the schema is set, it cannot be changed, so taking time to plan out each attribute is important
+
+furthermore, you will have to determine the geometry type (point, line, polygon) and define at least one temporal field and perhaps two for start and end. Its also important to determine which fields will be _required_ and which ones are optional. The temporal fields will always be required.  
+
+#### Using the Create Layer Wizard 
+
+to create a schema use the import wizard: 
+
+1. Go to the Create tab at the top of the site and select create layer. 
+
+2. TODO
 
 ### Demonstration
 
@@ -201,6 +215,10 @@ Now it's your turn! Try creating a new empty StoryLayer in StoryScapes. Share th
 
 
 ## Conclusion
+
+Over the course of this module, you've learned how to get data from files and schema uploaded and imported into the platform. You've also seen how to update and maintain good metadata which is important for data validity and usability. 
+
+This creates the foundation for developing rich and meaningful storyscapes. 
 
 ## Discussion Questions
 
