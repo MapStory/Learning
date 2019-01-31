@@ -14,6 +14,21 @@ Also, credit to GeoAcademy for inspiring this open course format.
 
 ## Introduction
 
+StoryScapes empowers geospatial intelligence professionals to generate mission-critical analysis that is rooted in both space and time. The goal is to enable source, analysis, and decision making functions to build on each other with speed and simplicity.
+
+The StoryScapes platform is organized around four critical user actions, which we call the '4 C's'. These are:
+
+1. Collecting data (or 'StoryLayers')
+2. Curating Storylayers
+3. Composing StoryScapes
+4. Conveying intelligence
+
+The graphic below describes some of the user statements that speak to each of these four critical actions:
+
+![](images/Screen Shot 2019-01-31 at 11.44.55 AM.jpg)\
+
+In this first Module we will begin with 'Conveying Intelligence' since it is the action that requires the least amount of technical know-how. Anyone with access to the StoryScapes platform can _view_ published content, such as StoryLayers or StoryScapes, and share it with colleagues or use it as part of presentations, much like they would with powerpoint slides.
+
 In this module, students will build a profile on StoryScapes and learn to explore and use content to make presentations that convey critical geospatial intelligence to a variety of audiences. This module lays critical groundwork that will enable StoryScapes users (or "StoryTellers") to engage in more creative and complex actions in later modules.
 
 This module includes the following lessons:
@@ -31,8 +46,6 @@ Each lesson is planned to take about 30 minutes to complete. Combined, this modu
 In this lesson students will learn to login and build a StoryScapes profile.
 
 ### Lecture
-
-Anyone with access to the StoryScapes platform can _view_ or _create_ published content, such as StoryLayers or StoryScapes.
 
 This Lecture will use a completed profile as an illustration to explain the purpose of the StoryScapes profile and the elements it includes. In the Demonstration that follows we will show a profile being built. Finally, in your Task for this Lesson, you will go ahead and build your own StoryScapes profile.
 
@@ -242,7 +255,7 @@ A published StoryScape is similar to other presentation oriented media, such as 
 
 Once you have discovered a StoryScape you want to present with, first take some time to read about the StoryScape and the chapters it includes, if it has more than one chapter. Also take a look at the StoryLayers that were used to create the StoryScape to help you make judgements about the quality of data they contain. Who were the StoryLayers imported by? Do you trust these sources? Have the StoryLayers been edited much at all? How are they rated? These are questions to ask before deciding the StoryScape is of enough quality to use in your presentation.
 
-\*Note - If in your assessment of the StoryScape you find any issues, flag them for follow up by an administrator. Flagging with be covered in more detail in Module 4.
+_*Note - If in your assessment of the StoryScape you find any issues, flag them for follow up by an administrator. Flagging with be covered in more detail in Module 4._
 
 You can also click `Favorite` to have the StoryScape show up on your profile where you can find it more easily in the future.
 
