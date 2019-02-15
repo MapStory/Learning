@@ -1,17 +1,39 @@
 # StoryScapes101 - Introduction to the StoryScapes platform
 -----------
 
-This course curriculum includes 7 modules, each with three lessons. Lessons and Modules are cumulative and should be completed in sequence.
+This course curriculum includes 6 modules and an Instructor Guide to support anyone tasked with delivering the StoryScapes101 course
 
-### Course Modules
+### Course Modules & Lessons
 
-+ [x] Module 0 - Course Instructors Guide
-+ [x] Module 1 - Conveying Intelligence with StoryScapes
-+ [x] Module 2 - Composing StoryScapes 1.0
-+ [x] Module 3 - Collecting StoryLayer Data
-+ [x] Module 4 - Curating StoryLayer Data
-+ [x] Module 5 - Composing StoryScapes 2.0
-+ [x] Module 6 - Collaboration & Community Building with StoryScapes
+Each lesson follows a two-part sequence: Listen, then do. This methodology moves learners through a process of hearing or reading new concepts to putting them into practice.
+
+Each course module ends with a series of discussion questions that participants should reflect on individually or in conversation with colleagues before continuing on to the next Module.
+
+_Course Outline_
+
+- Module 1 - Conveying Intelligence with StoryScapes
+  - Lesson 1: Build a Profile
+  - Lesson 2: Search and Share
+  - Lesson 3: Present with StoryScapes
+- Module 2 - Composing StoryScapes 1.0
+  - Lesson 1: Setting Up a StoryScape
+  - Lesson 2: Adding and Styling StoryLayers
+  - Lesson 3: Adding simple StoryPins and StoryFrames
+- Module 3 - Collecting StoryLayer Data
+  - Lesson 1: Importing point StoryLayers
+  - Lesson 2: Importing polygon StoryLayers
+  - Lesson 3: Writing High-Quality Metadata
+- Module 4 - Curating StoryLayer Data
+  - Lesson 1: Peer Reviewing StoryLayers
+  - Lessson2: Editing StoryLayer geometries
+  - Lesson 3: Editing StoryLayer attributes
+- Module 5 - Composing StoryScapes 2.0
+  - Lesson 1: Using Choropleth and Graduated styling for StoryLayers
+  - Lesson 2: Using Icons Commons for point Storylayers
+  - Lesson 3: Adding StoryPins with Media
+- Module 6 - Collaboration & Community Building with StoryScapes
+  - Lesson 1: Organizing Community Initiatives
+  - Lesson 2: Managing Organization Accounts
 
 ### Course Goals
 
