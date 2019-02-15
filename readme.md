@@ -37,7 +37,7 @@ Module 0 provides a guide for someone who will be teaching the course to others.
 
 Each of the six course Modules have three lessons. The course as eighteen individual lessons in all.
 
-Each course lesson follows a three-part sequence: Listen>Watch>Do. The Listen>Watch>Do methodology moves learners through a process of hearing or reading new concepts, which they retain bits of, to watching someone apply concepts in practice, which they retain more of, to finally applying the practice themselves, which they retain even more of.
+Each course lesson follows a two-part sequence: Listen, then do. The methodology moves learners through a process of hearing or reading new concepts, which they retain bits of, to applying concepts in the practice themselves, which they retain even more of.
 
 Each course Module ends with a series of discussion questions that participants should reflect on individually or in conversation with colleagues before continuing on to the next Module.
 
