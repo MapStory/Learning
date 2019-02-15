@@ -1,7 +1,7 @@
 # StoryScapes101 - Introduction to the StoryScapes platform
 -----------
 
-This course curriculum includes 7 modules, each with three lessons. The course can be executed comfortably over three days or compressed into two. Lessons and Modules are cumulative and should be completed in sequence.
+This course curriculum includes 7 modules, each with three lessons. Lessons and Modules are cumulative and should be completed in sequence.
 
 ### Course Modules
 
