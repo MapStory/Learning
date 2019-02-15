@@ -17,7 +17,7 @@ This Instructor Guide is designed for individuals who are teaching the StoryScap
 This Guide includes the following sections:
 
 +	Section 1 – Overview of Course & Instructor Requirements
-+ Section 2 – Instructors Notes that correspond to course content and can be used to support instruction.
++ Section 2 – Instructors Notes
 +	Section 3 – Introductory Slides to begin the course
 
 ## Section 1: Overview of Course & Instructor Requirements
@@ -29,15 +29,13 @@ Before determining whether this course is something you feel willing and able to
 This course was designed to provide a comprehensive introduction to the StoryScapes platform to geoint professionals. Those who complete the course should feel comfortable integrating StoryScapes
 into a range of geoint tasks, from managing and curating spatio-temporal data to publishing data-rich spatial narratives that support decision-making.
 
-This course curriculum is designed around six modules, each with three lessons. Each module is designed to take about two hours. The course can be executed comfortably over three days or compressed into two. Learners completing the material online or independently should allow about twelve hours to complete.
-
-Lessons and Modules are cumulative and should be completed in sequence.
+This course curriculum is designed around six modules, each with three lessons. Lessons and Modules are cumulative and should be completed in sequence.
 
 #### Course Modules & Lessons
 
 Each of the six course modules have three lessons. The course has eighteen individual lessons in all.
 
-Each lesson follows a three-part sequence: Listen>Watch>Do. The Listen>Watch>Do methodology moves learners through a process of hearing or reading new concepts, which they retain bits of, watching someone apply concepts in practice, which they retain more of, and finally applying the practice themselves, which they retain even more of.
+Each lesson follows a two-part sequence: Listen, then do. This methodology moves learners through a process of hearing or reading new concepts to putting them into practice.
 
 Each course module ends with a series of discussion questions that participants should reflect on individually or in conversation with colleagues before continuing on to the next Module.
 
@@ -54,7 +52,7 @@ _Course Outline_
 - Module 3 - Collecting StoryLayer Data
   - Lesson 1: Importing point StoryLayers
   - Lesson 2: Importing polygon StoryLayers
-  - Lesson 3: Creating StoryLayers from scratch
+  - Lesson 3: Writing High-Quality Metadata
 - Module 4 - Curating StoryLayer Data
   - Lesson 1: Peer Reviewing StoryLayers
   - Lessson2: Editing StoryLayer geometries
@@ -66,22 +64,6 @@ _Course Outline_
 - Module 6 - Collaboration & Community Building with StoryScapes
   - Lesson 1: Organizing Community Initiatives
   - Lesson 2: Managing Organization Accounts
-  - Lesson 3: Help StoryScapes Improve
-
-#### Course Architecture
-
-Since StoryScapes is a platform that is constantly improving and dedicated to openness and collaboration, this course was also designed with these attributes in mind.
-
-Course modules are updated regularly using a simple markdown syntax and hosted on Github. PDF versions of the Modules are rendered using `PanDoc`and made available for download at the StoryScapes `Get Started` page, where video tutorials complimenting the Modules are also available.
-
-This Course architecture has a number of benefits, including:
-- Course instructors can run a course with no software dependencies. All an instructor or course participant needs is a laptop and internet connection.
-- New StoryScapes users who don't have access to a formal in-person course can follow a self-taught model by working through Modules and video tutorials on the StoryScapes `Get Started` page.
-- Course writers can quickly and easily make updates to Modules as the StoryScapes platform evolves. The widely used Markdown syntax is easy to use, enabling new course writers to quickly get up to speed to make contributions.
-- Markdown is a language that can easily be transformed into other formats.
-- Course participants and instructors can easily provide feedback using Github issues.
-
-Therefore, when teaching this course, you as the instructor will utilize the videos and downloadable pdf documents available on the StoryScapes `Get Started` page.
 
 ### Instructor Requirements
 
@@ -96,7 +78,7 @@ To successfully facilitate this course, Instructors should have _at minimum_ the
   - Using search to find content and using published content to convey meaning in presentations
 - Have access to the StoryScapes platform and/or a training version of the platform
   - *_Note, ideally the instructor will have access to Organizer status for an Initiative and Organization account so that learners can practice managing these accounts, as outlined in Module 6_
-- Have access to the test data that supports lessons around collecting and importing data in Module 3.
+- Have access to the test data that supports lessons around collecting and importing data in Module 3. If test data is not available, the instructor can use their own.
 
 ## Section 2 – Instructor Notes
 
@@ -126,9 +108,9 @@ _Space Prerequisites_
 
 _Learner Prequisites_
 
-- All learners should have access to a personal computer with access to the internet on a supported browser (XXXX).
-- Learners' computers should have _at minimum_ access to a program for working with tabular data that can produce comma-separated files, such as Microsoft Excel. Ideally, learners will also have access to a GIS software program that can produce Shapefiles, such as ArcMap or QGIS
-- Learners should have authorization credentials to log in to the StoryScapes platform _or_ the Instructor should be able to provide learners access to a training version of StoryScapes.
+- All learners should have access to a personal computer with access to the internet.
+- Learners' computers should have _at minimum_ access to a program for working with tabular data that can produce comma-separated files, such as Microsoft Excel. Ideally, learners will also have access to a GIS software program that can produce Shapefiles, such as ArcMap or QGIS.
+- Learners should have authorization credentials to log in to the StoryScapes platform or the Instructor should be able to provide learners access to a training version of StoryScapes.
 
 ### Course Agenda
 
@@ -147,7 +129,7 @@ _Course Outline_
 - Module 3 - Collecting StoryLayer Data
   - Lesson 1: Importing point StoryLayers
   - Lesson 2: Importing polygon StoryLayers
-  - Lesson 3: Creating StoryLayers from scratch
+  - Lesson 3: Writing High-Quality Metadata
 - Module 4 - Curating StoryLayer Data
   - Lesson 1: Peer Reviewing StoryLayers
   - Lessson2: Editing StoryLayer geometries
@@ -159,7 +141,6 @@ _Course Outline_
 - Module 6 - Collaboration & Community Building with StoryScapes
   - Lesson 1: Organizing Community Initiatives
   - Lesson 2: Managing Organization Accounts
-  - Lesson 3: Help StoryScapes Improve
 
 ### Course Materials
 
@@ -169,11 +150,11 @@ First, direct them to where they can download the Module and Lesson materials. T
 
 Learners should download the pdfs for all six Modules at the outset, so you can confirm learners have access to the learning material for the whole course before diving in.
 
-Second, learners should go ahead and download the test data that will be used in Module 3 focused on collecting StoryLayer data. Doing this at the outset of the class will help surface any issues learners may have right away, before you get too far in the course. If learners have access to the internet, these test data can be accessed from Github (XXXX). If learners do not have access to the open internet, you will have to bring the test data pre-loaded to a flash drive.
+Second, learners should go ahead and download the test data that will be used in Module 3 focused on collecting StoryLayer data. Doing this at the outset of the class will help surface any issues learners may have right away, before you get too far in the course.
 
 ### The mission of StoryScapes
 
-Make sure to introduct learners to the overall mission of StoryScapes:
+Make sure to introduce learners to the overall mission of StoryScapes:
 
 _StoryScapes is a collaborative platform that makes spatio-temporal knowledge easy to find, improve, and share in order to drive evidence-based decision-making anytime and anywhere._
 
@@ -189,79 +170,6 @@ Make sure to introduce learners to the four critical user actions (the '4 C's) t
 This graphic is helpful in discussing the concrete user personas that take up these actions:
 
 ![](images/Screen Shot 2019-01-31 at 11.44.55 AM.jpg)\
-
-### Module 1
-
-#### Lesson 1: Build a Profile
-
-This lesson is primarily about getting your learners successfully logged into StoryScapes. Building a Profile is very straightforward. Anyone that has built a user profile on popular social platforms (i.e. LinkedIn, Facebook) will find this process in StoryScapes to be familiar. If no one has problems accessing the StoryScapes platform, this Lesson could be completed fairly quickly. However, expect at least one of your learners to have problems at some stage in the process. It is best to take your time and make sure everyone is logged in with a user profile before proceeding further.
-
-#### Lesson 2: Search and Share
-
-The most important aspect of this lesson is to establish the terminology that StoryScapes utilizes. StoryScapes does rely on unique terms, and it is important that learners have an understanding of what is being referred to when you use terms like StoryLayer or StoryScape. Take your time here and allow learners to ask questions and confirm for you that they are getting a sense of these terms.
-
-
-#### Lesson 3 Present with StoryScapes
-
-This lesson will be most interesting for the learner if you as the instructor have a StoryScape in mind that you can use as an example to present with. The isn't a requirement. You can teach the Lesson by simply following the text and figures in the lesson and then watching the Demonstration video. But, if possible try taking some time to find a published StoryScape created by yourself or another user and walk through the playback features on this live demonstration!
-
-### Module 2
-
-For the lessons in this module to work, you will need to have at least one StoryLayer pre-loaded on the StoryScapes platform you are using for the training. Ideally you will have several StoryLayers to work with - including at least one with points and one with polygons.
-
-#### Lesson 1: Setting Up a StoryScape
-
-This lesson uses a pre-set example. If you would like to demonstration with a different StoryScape, feel free!
-
-#### Lesson 2: Adding and Styling StoryLayers
-
-This lesson uses a metaphor of pizza to try and describe how the structural components of a StoryScape work together, with StoryLayers at the base and StoryPins and StoryFrames added on top to enhance the narrative. If another metaphor comes to mind that feels more appropriate for you, feel free to amend.
-
-If your learners have prior experience with GIS workflows, introducing them to map styling might be an easier task. This lessson is written assuming learners have no prior experience.
-
-#### Lesson 3: Adding simple StoryPins and StoryFrames
-
-By the end of this lesson, we've asked learners to have composed a full story with styled StoryLayers, a StoryPin and a StoryFrame. Emphasize to your learners that their story doesn't need to be _coherent_. The goal here is to walk through the motions involved in composing a StoryScape. All of the content they are creating can be deleted after the training is concluded.
-
-### Module 3
-
-#### Lesson 1: Importing point StoryLayers
-#### Lesson 2: Importing polygon StoryLayers
-#### Lesson 3: Creating StoryLayers from scratch
-
-### Module 4
-
-#### Lesson 1: Peer Reviewing StoryLayers
-#### Lesson 2: Editing StoryLayer geometries
-#### Lesson 3: Editing Storylayer attributes
-
-### Module 5
-
-#### Lesson 1: Using Choropleth and Graduated styling for StoryLayers
-
-This lesson's task asks learners to apply choropleth and graduated styles. To do that, you will need to make sure the StoryScapes platform you're using for the training has at least one point StoryLayer and one polygon StoryLayer loaded. The github repository for the course has these test datasets avaiable for download in case you need them.
-
-#### Lesson 2: Using Icons Commons for point Storylayers
-
-The test data folder of the Github repo has a couple of .svg files that you can share with learners, or use yourself in your lecture.
-
-#### Lesson 3: Adding StoryPins with Media
-
-_TBD based on workflow for embedding media_
-
-### Module 6
-
-#### Lesson 1: Organizing Community Initiatives
-
-While this lesson can be implemented using only the text and figures from the lesson document, it will be greatly enhanced if you as an instructor have Organizer status on a Community Initiative and thus can provide a live demonstration of the management functions for Community Initiatives.
-
-#### Lesson 2: Managing Organization Accounts
-
-While this lesson can be implemented using only the text and figures from the lesson document, it will be greatly enhanced if you as an instructor have Organizer status on an Organization and thus can provide a live demonstration of the management functions for Organization pages.
-
-#### Lesson 3: Help StoryScapes Improve
-
-_TBD based on administrator workflow_
 
 ## Section 3 – Introductory Slides
 
@@ -297,7 +205,7 @@ This course is comprised of six modules that have three Lessons each.
 - Module 3 - Collecting StoryLayer Data
   - Lesson 1: Importing point StoryLayers
   - Lesson 2: Importing polygon StoryLayers
-  - Lesson 3: Creating StoryLayers from scratch
+  - Lesson 3: Writing High-Quality Metadata
 - Module 4 - Curating StoryLayer Data
   - Lesson 1: Peer Reviewing StoryLayers
   - Lessson2: Editing StoryLayer geometries
@@ -309,7 +217,6 @@ This course is comprised of six modules that have three Lessons each.
 - Module 6 - Collaboration & Community Building with StoryScapes
   - Lesson 1: Organizing Community Initiatives
   - Lesson 2: Managing Organization Accounts
-  - Lesson 3: Help StoryScapes Improve
 
 ### Slide 3
 

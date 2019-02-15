@@ -17,16 +17,10 @@ In this Module, students will learn to use StoryScapes as a platform to support 
 
 StoryScapes provides two special profile types to support collaboration among StoryTellers working on a common theme and StoryTellers working within the same organization.
 
-Additionally, StoryScapes provides mechanisms for StoryTellers to support the ongoing improvement of the StoryScapes platform. As an open-source and agile project, StoryScapes relies on a wide community of users, developers and sponsors to continuously grow and improve to meet user needs.
-
 This module includes the following lessons:
 
 +	Lesson 1 – Organizing Community Initiatives
 +	Lesson 2 – Managing Organization Accounts
-+	Lesson 3 – Help StoryScapes Improve
-
-Each Lesson is planned to take about 30 minutes to complete. Combined, this module should take about two hours to complete (assuming ten minute breaks between each Lesson).
-
 
 ## Lesson 1: Organizing Community Initiatives
 
@@ -59,7 +53,7 @@ If you have a Community Initiative you would like to see launched on StoryScapes
 
 ##### Managing a Community Initiative Page
 
-If you have been given Organizer status on a Community Initiative, you click `Manage` on the Community Initiative page to customize basic information about your Community Initiative.
+If you have been given Organizer status on a Community Initiative, click `Manage` on the Community Initiative page to customize basic information about your Community Initiative.
 
 ![](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)\
 
@@ -70,12 +64,6 @@ To add StoryLayers and StoryScapes to your Community Initiative page, you simply
 StoryTellers can also request to become Members of your Community Initiative. This is simply a way for you to indicate people that are supportive of your Community Initiative and are helping with the work in some way. A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page. You can accept or reject these requests from the management page for the Community Initiative.
 
 ![](images/Screen Shot 2019-01-24 at 12.37.20 PM.jpg)\
-
-### Demonstration
-
-Now that you've learned how to access and manage a Community Initiative, let's watch an example of a user performing these actions:
-
-Watch this video. VIDEO.
 
 ### Tasks
 
@@ -122,15 +110,9 @@ StoryScapes users can also request to become Members of your Organization. This 
 
 ![](images/Screen Shot 2019-01-30 at 6.24.03 PM.jpg)\
 
-You can accept or reject these requests from the management page for the Community Initiative.
+You can accept or reject these requests from the management page for the Organization.
 
 ![](images/Screen Shot 2019-01-30 at 6.24.44 PM.jpg)\
-
-### Demonstration
-
-Now that you've learned how to manage an Organization Account, let's watch an example of a user performing these actions:
-
-Watch this video. VIDEO.
 
 ### Tasks
 
@@ -141,55 +123,24 @@ Now it's your turn!
 
 _The following tasks can be completed if your course instructor shares login information for a temporary user account with rights as a manager of an Organization Account_:
 
-- [x] Log off from your current account and log back on to StoryScapes using the test account provided by your course instruction. Go to this Organization Account page and make one improvement to the profile.
+- [x] Log off from your current account and log back on to StoryScapes using the test account provided by your course instructor. Go to this Organization Account page and make one improvement to the profile.
 
 - [x] Add at least one StoryLayer or StoryScape to the Organization Account.
-
-
-## Lesson 3: Help StoryScapes Improve
-##### Objective
-In this lesson, students will learn how they can help make StoryScapes a platform that continuously improves to better serve its user community.
-### Lecture
-
-StoryScapes is designed to be a community-driven piece of software, more like Wikipedia than Microsoft Word. StoryScapes is a knowledge platform where users work together to make the StoryLayers and StoryScapes that are published more complete and accurate over time.
-
-Therefore, StoryTellers have an opportunity to help improve the platform itself, and are encouraged to do so! Consider the following ways you can help StoryScapes improve:
-
-###### Report Issues
-
-As you use the StoryScapes platform, you can report any issues you experience by using the Flag tool that was introduced in Module 4.
-
-###### Contribute to the Roadmap
-
-StoryScapes development follows a Roadmap that is available here XXXX. If you have ideas for features you want to see built, contribute it to the Roadmap XXXX.
-
-###### Write Code
-
-If you're a software developer, you're invited to get involved in the StoryScapes development pipeline. StoryScapes develops on a Agile process anchored by an open Scrub Board. Read more about our process here XXX. Check out our Backlog of issues here XXX. If there is one you feel you can tackle, go ahead!
-
-##### Apply to become an Administrator
-
-Administrators are the glue that holds StoryScapes together. Administrators are StoryTellers that have demonstrated significant experience and skill in using StoryScapes and are willing to volunteer time above and beyond their work duties to help make StoryScapes succeed. Administrators take on tasks like:
-
-+ Responding to content Flags
-+ Responding to Community Initiative and Organization Account requests
-+ Featuring excellent content on the Homepage
-+ Setting development priorities for the Roadmap
-
-If you are interested in becoming a StoryScapes Administrator, email XXXX. XXXXX
-
-### Demonstration
-
-Take a few minutes to listen to XXXX, a long-time StoryScapes developer, discuss what its like to be a StoryScapes developer and administrator;
-
-Watch this video. VIDEO.
-
-### Tasks
-
-Now that you've reached this final lesson in the Course, we want your thoughts! Take a moment to think about a new feature that you'd like to see in StoryScapes. Maybe its a new tool to help you curate StoryLayers or compose StoryScapes. Contribute your idea to the StoryScapes Roadmap!
 
 ## Conclusion
 
 In this Module you have learned how you can use StoryScapes to bring people together, whether by connecting people around a common interest in the form of a Community Initiative, or helping colleagues collaboration with an Organization Account.
 
-You've also learned that StoryScapes depends on its users to step up in order to succeed. You've been invited to provide feedback, write code and even to become a site Administrator. The future of StoryScapes depends on you! Join us to chart the future!
+## Discussion Questions
+
+Before moving on to the next Module, reflect independently or in a group on the following questions:
+
+1. Are there topics that you think would make for a good Community Initiative? What are they?
+
+2. What about an idea for an Organization Page?
+
+3. StoryScapes aims to promote colloboration within the US Government. Have you seen examples of collaboration successes across agencies or offices. What causes do you attribute to these successes?
+
+4. What other strategies might StoryScapes take to promote collaboration, in addition to providing Initiative and Organization accounts?
+
+5. What other comments, questions or concerns do you have about this Module?

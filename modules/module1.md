@@ -37,8 +37,6 @@ This module includes the following lessons:
 +	Lesson 2 – Search and Share
 +	Lesson 3 – Present with StoryScapes
 
-Each lesson is planned to take about 30 minutes to complete. Combined, this module should take two hours to complete (assuming ten minute breaks between each Lesson).
-
 ## Lesson 1: Build a Profile
 
 ##### Objective
@@ -46,8 +44,6 @@ Each lesson is planned to take about 30 minutes to complete. Combined, this modu
 In this lesson students will learn to login and build a StoryScapes profile.
 
 ### Lecture
-
-This Lecture will use a completed profile as an illustration to explain the purpose of the StoryScapes profile and the elements it includes. In the Demonstration that follows we will show a profile being built. Finally, in your Task for this Lesson, you will go ahead and build your own StoryScapes profile.
 
 ##### The Role of Identity
 
@@ -61,15 +57,14 @@ StoryScapes was built to enable knowledge-sharing amongst stakeholders across th
 
 + Personal computer or laptop
 + Internet connection
-+ Internet browser (TBD)
 + Software program for creating tabular data (i.e. Microsoft Excel) _if importing point StoryLayers_.
-+ Software program for creating shapefiles, such as ArcMap or GIS _if importing polygon StoryLAyers_.
++ Software program for creating shapefiles, such as ArcMap or GIS _if importing polygon StoryLayers_.
 
 ##### Skill requirements to use StoryScapes?
 
 StoryTellers require a range of skills, depending on the actions they want to perform. These skills might be grouped into the following three levels:
 
-_In order to be a **convey** StoryScapes content created by others, you need to be able to:_
+_In order to **convey** StoryScapes content created by others, you need to be able to:_
 - Perform basic computer and internet functions, like clicking, typing and navigating a web browser
 
 _In order to **curate** StoryLayers created by others, you need to be able to:_
@@ -121,12 +116,6 @@ To add, modify and delete personal information in your Profile, click your Avata
 
 ![](images/Screen Shot 2019-01-30 at 6.30.06 PM.jpg)\
 
-### Demonstration
-
-Now that you have a sense of who StoryScapes is for and what is entailed in a StoryTeller profile, lets watch a StoryTeller create a new Porfile from scratch.
-
-Watch this video. VIDEO.
-
 ### Tasks
 
 Now it's your turn! Your assignment is to build your Profile in Storyscapes. When you are finished, ask a colleague to find your StoryScapes profile in `Explore` and confirm it includes the following elements:
@@ -155,7 +144,7 @@ In StoryScapes there are three types of content a StoryTeller  can search for - 
 
 ###### **StoryLayers**
 
-A StoryLayer is a data file that is used to display geographic information with temporal attribute(s) on StoryScapes. Module 3 will cover StoryLayers in more detail.
+A StoryLayer is a data file that is used to display geographic information with temporal attribute(s). Module 3 will cover StoryLayers in more detail.
 
 To find a StoryLayer, click `Explore` at the top of your screen. Make sure you are filtering for `Content`. On the leftside, check the `StoryLayers` box so only StoryLayers show in the `Content` filter.
 
@@ -172,7 +161,7 @@ From there you can take a variety of actions, including:
 - Hit "play" and watch the StoryLayer data animate over space and time
 - Peer review the StoryLayer (more details in Module 4)
 - Edit the StoryLayer to make it more complete and accurate (more details in Module 4)
-- Use the StoryLayer to compose a MapStory (more details in Module 2 and 5)
+- Use the StoryLayer to compose a MapStory (more details in Modules 2 and 5)
 
 ###### **StoryScapes**
 
@@ -208,39 +197,26 @@ StoryLayers and StoryScapes can be shared with colleagues, much like you might s
 
 ##### Share with a Link
 
-TBD
+Simply grab the hyperlink for any StoryLayer or StoryScape page and share the link with a colleague.
 
 ##### Embed
 
-Embedding is a common workflow for video media. Embedding allows you to place content directly on another webpage or a blog entry. To embed a StoryLayer or StoryScape, go to the "Share" tab and copy the Embed code. This code can be pasted on to the website where you want to embed the StoryLayer or StoryScape.
-
-SCREENSHOT TBD
-
-##### Share Services (StoryLayers Only)
-
-TBD
+Embedding allows you to place content directly on another webpage or a blog entry. To embed a StoryLayer or StoryScape, go to the "Share" tab and copy the Embed code. This code can be pasted on to the website where you want to embed the StoryLayer or StoryScape.
 
 ##### Download Data (StoryLayers Only)
 
-You may want to download a StoryLayer's data in a common format, such as a CSV or Shapefile, and share it with a colleague. This capability is available to any registered StoryLayer. Navigate to any StoryLayer page and click `Download StoryLayer`. Then select the format for your download.
+You may want to download a StoryLayer's data in a common format, such as a CSV or Shapefile, and share it with a colleague. This capability is available to any registered StoryTeller. Navigate to any StoryLayer page and click `Download StoryLayer`. Then select the format for your download.
 
 ![](images/Screen Shot 2019-01-21 at 8.23.33 PM.jpg)\
-
-### Demonstration
-
-Now let's watch a StoryTeller engage in the process of finding StoryLayers and StoryScapes and sharing them with colleagues.
-
-Watch this video. VIDEO.
 
 ### Tasks
 
 Now it's your turn! Prove to a colleague that you can complete the following steps:
 
 - [x] Indicate a subject area you're interested in finding content about (i.e. a region or an issue)
-- [x] Use the StoryScapes `Explore` to find a StoryLayer or StoryScape that addresses your issue area. Use filters and tags to narrow your search. (If you don't find anything, that means someone like you needs to create it! We'll cover content creation topics in future modules)
+- [x] Use the StoryScapes `Explore` page to find a StoryLayer or StoryScape that addresses your issue area. Use filters and tags to narrow your search. (If you don't find anything, that means someone like you needs to create it! We'll cover content creation topics in future modules)
 - [x] Share a StoryLayer or StoryScape with a colleague using one of the methods covered in the Lesson.
 - [ ] _Challenge_: Embed a StoryLayer or StoryScape on a real site you have administrative access to.
-
 
 ## Lesson 3: Present with StoryScapes
 ##### Objective
@@ -269,7 +245,7 @@ StoryScapes can be presented at small size, or expanded into full screen.
 
 The summary description for the chapter is on the leftside of the map canvas.
 
-To start the playback on a StoryScape, simply hit the play. The map and timeline will start to advance. You can pause and restart the playback at any time.
+To start the playback on a StoryScape, simply hit play. The map and timeline will start to advance. You can pause and restart the playback at any time.
 
 You can change the speed of the playback by using the 'fastforward' and 'rewind' buttons or by opening the `Playback Settings` and selecting a different playback rate (i.e. 2x, 4x, 8x).
 
@@ -279,32 +255,26 @@ In the `Playback Settings` you can also decide if you want features to play inst
 
 Next to the Playback Settings there is a button to expand the timeline to see the distribution of features over time.
 
-Next to the Timeline button there is a button to `Loop` a chapter, or `Loop` whole StoryScape, if you want either an individual chapter or the whole StoryScape to keep repeating.
+Next to the Timeline button there is a button to `Loop` a chapter, or `Loop` the whole StoryScape, if you want either an individual chapter or the whole StoryScape to keep repeating automatically.
 
 If the StoryScape has any StoryFrames, they will cause the StoryScape to automatically zoom the map to different places at specific times. When there is no StoryFrame, you can use zoom buttons at the top-right of the map canvas to zoom in and out on the map, and you can use your mouse to click and move the map around.
 
 If StoryPins were added, they will pop up on the map at specific times. If StoryPins have media (such as a video) the media will begin playing automatically if that is how the Storyteller set it up. If the media doesn't begin playing automatically, that means you can control the media's playback by clicking and pause as you prefer.
 
-In the top right corner a Legend explains what the colors on the map features represent. You can minimize the legend.
+In the top right corner a Legend explains what the colors on the map features represent. You can minimize the Legend.
 
 At the end of a chapter, click the arrows in the left-hand sidebar to advance the StoryScape to the next chapter.
 
 Don't worry if you're confused by some of the terminology used here. We will cover these specific elements of a StoryScape, such as StoryPins and StoryFrames, in Module 2, when we look at how to compose a StoryScape.
 
-### Demonstration
-
-Now that you have a sense of all the features that support the playback of a StoryScape, let's have a look at someone using a StoryScape as part of a presentation:
-
-Watch this video. VIDEO.
-
 ### Tasks
 
 Now it's your turn! Your assignment is to find and present a StoryScape to a colleague. Your presentation should cover the following elements:
 
-1. Explain what the StoryScape is about, what StoryLayers it uses, and why you feel this is a quality StoryScape to present.
+1. Explain what the StoryScape is about, what StoryLayers it uses, and why you feel this is a quality StoryScape to present, or perhaps any concerns you have about it.
 2. Present in Full Screen mode for at least part of your presentation.
 3. Adjust the playback rate to the most appropriate speed for your presentation.
-4. Explain what the legend is communicating, and then minimize the legend.
+4. Explain what the Legend is communicating, and then minimize the Legend.
 5. Use StoryFrames and StoryPins in your StoryScape (if applicable) to help focus your spoken presentation.
 
 ## Conclusion

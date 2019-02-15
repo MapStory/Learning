@@ -15,15 +15,11 @@ Also, credit to GeoAcademy for inspiring this open course format.
 
 In this Module, students will learn the basics of using the StoryScapes `Composer`. By the end of the Module students will have published a simple StoryScape using StoryLayers imported by others.
 
-
 This module includes the following lessons:
 
 +	Lesson 1 – Setting Up a StoryScape
 +	Lesson 2 – Adding and Styling StoryLayers
 +	Lesson 3 – Adding simple StoryPins and StoryFrames
-
-Each Lesson is planned to take about 30 minutes to complete. Combined, this module should take two hours to complete (assuming ten minute breaks between each Lesson).
-
 
 ## Lesson 1: Setting Up a StoryScape
 ##### Objective
@@ -46,13 +42,13 @@ Thus, like all story forms, a StoryScape includes the following four elements: p
 Let's look a bit closer and what we mean by place, plot, performer and point:
 
 - **Place**: Traditional story definitions will refer instead of place to “setting”, since a story obviously doesn’t have to occur in geographic context. We spend most of our time in James Joyce’s Ulysses exploring consciousness, for example. For a StoryScape, however, setting always refers to place in a literal sense. StoryScapes always occur _somewhere_.
-- **Plot**: Plot refers to what happens in a story, and in what order. StoryScapes should always have a plot. They are not simply a graph or chart that presents data. They unfold over time in a sequence specifically designed to convey a particular perspective.
+- **Plot**: Plot refers to what happens in a story, and in what order. StoryScapes should always have a plot. StoryScapes are not simply a graph or chart that present data. They unfold over time in a sequence specifically designed to convey a particular perspective.
 - **Performers**: For events to occur, there must be action. And for action to occur, there must be performers. In a StoryScape, performers could be humans or animals, or even plant life like an invasive species, or an environmental force like a hurricane.
-- **Point** Every StoryScape has a point, or main theme. This is also often referred to as a story's theme or main idea. Sometimes the StoryTeller makes this point very explicit. Othertimes, the StoryTeller may leave it to viewers to infer the main point implicitly conveyed in the StoryScape.
+- **Point** Every StoryScape has a point, or main theme. Sometimes the StoryTeller makes this point very explicit. Othertimes, the StoryTeller may leave it to viewers to infer the main point implicitly conveyed in the StoryScape.
 
 ##### The Components of a StoryScape
 
-All stories are made up of small components that combine into a coherent whole. For a StoryScape, these elements include styled StoryLayers, StoryPins, StoryFames, description and metadata. Below we provide a brief definition of each of these components. Later we will gain a better understanding of these componets by _putting them to use_.
+Text-based stories are made up of small components, like words and sentences, that combine into a coherent whole text. For a StoryScape, the components are StoryLayers, StoryPins, StoryFames, description and metadata. Below we provide a brief definition of each of these components. Later we will gain a better understanding of these componets by _putting them to use_.
 
 - **StoryLayer**: A StoryLayer is a data file that is used to display geographic information with temporal attribute(s)
 - **StoryPin**: A StoryPin is a single geographic feature that is added to a StoryScape to convey qualitative information at a specific point in time in a StoryScape.
@@ -84,15 +80,9 @@ Don’t worry - you can change the Title, Summary and Category later.
 Just like any piece of writing, it is a good idea to outline your StoryScape before proceeding too far. To outline your StoryScape consider the following:
 
 + Has someone already published a StoryScape similar to the one you envision? If so, think about how your StoryScape will make a unique contribution.
-+ How many chapters will your StoryScape have? For example, a StoryScape about the American Civil War might have a chapters for each major battle - i.e. Bull Run, Gettysburg, Antietem).
++ How many chapters will your StoryScape have? For example, a StoryScape about the American Civil War might have a chapters for each major battle - i.e. Bull Run, Gettysburg, Antietem.
 + Each chapter will need a Description of its own. This should be a paragraph or two that describes the chapter and its significance.
 + What StoryLayers will you use in each chapter? You'll need to search for StoryLayers to make sure they exist on the platform to use in your StoryScape. For example, a StoryScape about the American Civil War with chapters for different battles will need StoryLayers that depict aspects of these battles, such as the location of troop movements. If the StoryLayers you want for your StoryScape aren't already available, you'll need to import them yourself. We'll cover importing StoryLayers in Module 3.
-
-### Demonstration
-
-Now that you have an understanding about the what's involved in setting up a StoryScape, let's watch someone begin a new StoryScape:
-
-Watch this video. VIDEO.
 
 ### Tasks
 
@@ -131,7 +121,7 @@ In this Module we will cover Simple and Unique styling only since they are the e
 
 With a Simple style, all aspects (color, hue and size) are uniform on all features of the StoryLayer. This style is often used if features don't need to be differentiated from one another.
 
-To add apply a Simple style to a StoryScape, follow these steps:
+To apply a Simple style to a StoryScape, follow these steps:
 
 First, you will launch a new StoryScape, as you learned to do in the previous Lesson. To review, you should:
   - Click `Create` and `Compose StoryScape` at the top of your screen.
@@ -176,11 +166,11 @@ A Unique style allows you to represent features with a different color based on 
 
 In the example below, we use Unique styling to differentiate between areas that ISIS counts as territory (blue) versus areas under attack by ISIS (orange)
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 10.56.03 AM.jpg)\
+![](images/Screen Shot 2019-01-22 at 10.56.03 AM.jpg)\
 
-Here's how we were able to apply this Unique style
+Here's how we were able to apply this Unique style:
 
-First, since we were already in the style editor of the composer, with the ISIS territorial control StoryLayer added to chapter 1, we switched from the `Simple` style option to the `Unique` styling option. This customized the set of tools in the style editor that are appropriate for a Unique. style.
+First, since we were already in the style editor of the composer, with the ISIS territorial control StoryLayer added to chapter 1, we switched from the `Simple` style option to the `Unique` styling option. This customized the set of tools in the style editor that are appropriate for a Unique style.
 
 The options for Unique are very similar to Simple, with a few differences. You will see sections for **Stroke** and **Label** that work the same as they do for Simple styling.
 
@@ -188,15 +178,9 @@ But, in Unique, you will see a new section called **Classification** that replac
 
 To repeat, in this example we use Unique styling to differentiate between two groups: 1) areas that ISIS counts as territory (blue) versus 2) areas under attack by ISIS (orange). In the StoryLayer data, the attribute that defines these different areas is called "Group". So, in the Classification section, we select "Group" from the drop-down.
 
-We also select a color ramp. In this eample, we use the first color ramp. And we make sure the classification number is more than the number of unique groups we want to make. In this example we increase it to six just to be safe, but there are only two groups.
+We also select a color ramp. In this example, we use the first color ramp. And we make sure the classification number is more than the number of unique groups we want to make. In this example we increase it to six just to be safe, but there are only two groups.
 
 Once we've completed the Classification section, we see our unique groups listed under a new section called **Rules** at the bottom of the style editor. Default colors are applied to our groups which we can customize if we want.
-
-### Demonstration
-
-Now that you have an understanding about the what's involved in adding StoryLayers to a chapter and applying Simple and Unique styles to StoryLayers, let's watch someone build a new StoryScape.
-
-Watch this video. VIDEO.
 
 ### Tasks
 Now it's your turn! Return to the draft StoryScape you started building in Lesson 1. You should be able to find the saved draft by going to your Profile.
@@ -211,11 +195,11 @@ In this lesson students will learn how to add basic Storypins and StoryFrames to
 
 StoryPins and StoryFrames are tools to help your StoryScape more clearly convey its plot and point. If a StoryScape is like a pizza, and StoryLayers are like the crust, we might say that StoryPins and StoryFrames are like the sauce and toppings.
 
- StoryFrames and StoryPins are the key ingredients for adding narrative richness to styled StoryLayers so that a real _story_ emerges. For example, in the previous Lesson we added a Unique style to a StoryLayer showing areas of ISIS control and attack. But this alone tells us little about _how_ or _why_ ISIS controls and/or attacks various territories. With StoryPins, we can highlight specific people and events that have made a difference. And with StoryFrames we can make sure to zoom into to key places where these events are happening, just like a filmmaker might zoom in during a scene to focus our attention.
+StoryFrames and StoryPins are the key ingredients for adding narrative richness to styled StoryLayers so that a real _story_ emerges. For example, in the previous Lesson we added a Unique style to a StoryLayer showing areas of ISIS control and attack. But this alone tells us little about _how_ or _why_ ISIS controls and/or attacks various territories. With StoryPins, we can highlight specific people and events that have made a difference. And with StoryFrames we can make sure to zoom into to key places where these events are happening, just like a filmmaker might zoom in during a scene to focus our attention.
 
 ##### Adding simple Storypins
 
-StoryPins let you add more qualitative information that doesn't quite make sense as part of the StoryLayer data. For example, perhaps you want a pin with a newspaper article that was important, or you want to pin a video that helps explain what the viewer is seeing in your StoryScape. Or, maybe you just want to add some clarifying text that helps a viewer understand more about something at a specific moment in time.
+StoryPins let you add more qualitative information that doesn't quite make sense as part of the StoryLayer data. For example, perhaps you want a StoryPin with a newspaper article that was important, or you want to StoryPin a video that helps explain what the viewer is seeing in your StoryScape. Or, maybe you just want to add some clarifying text that helps a viewer understand more about something at a specific moment in time.
 
 In this lesson we will build StoryPins that only have text. In Module 5 we will build StoryPins with embedded media, like images and videos.
 
@@ -231,7 +215,7 @@ There are two ways to create StoryPins:
 
 To add StoryPins one at a time, click `New Storypin`. Click `Move Pin` and then click and drag the pin on the map to its desired location. You can also manually enter Latitude and Longitude coordinates into the form if you know them.
 
-Next, give your Storypin a title and description. Then, define the start time that you want your StoryPin to appear at, and the end time that you want it to dissappear at.
+Next, give your StoryPin a title and description. Then, define the start time that you want your StoryPin to appear at, and the end time that you want it to dissappear at.
 
 In the example below, we've created a StoryPin to highlight the time and place where ISIS formally declared its Caliphate.
 
@@ -241,7 +225,7 @@ In the example below, we've created a StoryPin to highlight the time and place w
 
 To add lots of StoryPins at once, instead of clicking `New StoryPins`, you will click `Import` to download a blank .CSV file with pre-set column headers for the information you need to have for each StoryPin.
 
-![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.30.34 AM.jpg)\
+![](images/Screen Shot 2019-01-22 at 11.30.34 AM.jpg)\
 
 Once you’ve populated the CSV with your StoryPin information, return to the composer and click `Import` and upload your StoryPins . All of your StoryPins will then appear individually in the StoryPin sidebar so that you can further customize them individually.
 
@@ -258,12 +242,6 @@ Next, click `Create Bounding Box`. This will give you the directive to hold `Shi
 In the example below, we've created a StoryFrame that better focuses on a location where ISIS declared a Caliphate, a point also highlighted with a StoryPin.
 
 ![SCREENSHOT](images/Screen Shot 2019-01-22 at 11.35.57 AM.jpg)\
-
-### Demonstration
-
-Now that you have an understanding about the what's involved in adding StoryPins and StoryFrames to a StoryScape, let's watch someone go through this process:
-
-Watch this video. VIDEO.
 
 ### Tasks
 
@@ -282,7 +260,7 @@ With these skills, you can quickly and easily compose and publish a StoryScape t
 In future Modules we will cover more advanced features in the StoryScapes composer, such as using complex styles on StoryLayers and adding media to StoryPins.
 
 ## Discussion Questions
-Before moving on to the next Module, take fifteen minutes to reflect independently or in a group on the following questions:
+Before moving on to the next Module, reflect independently or in a group on the following questions:
 
 1. In this Module you started building a StoryScape of your own. Why did you pick the topic you did to practice with?
 

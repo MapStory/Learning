@@ -21,12 +21,12 @@ This module includes the following lessons:
 +	Lesson 2 – Editing StoryLayer geometries
 +	Lesson 3 – Editing StoryLayer attributes
 
-Each lesson is planned to take about XXXX minutes to complete. Combined, this module should take XXX hours to complete (assuming ten minute breaks between each Lesson).
-
-
 ## Lesson 1: Peer Reviewing StoryLayers
+
 ##### Objective
+
 In this Lesson, students will learn how to review StoryLayers imported by their peers.
+
 ### Lecture
 
 StoryScapes provides a variety of ways to review StoryLayers so that quality and accuracy can be continuously promoted and improved. In this Lesson we will cover the following Peer Review actions:
@@ -43,12 +43,10 @@ There are five reasons you might want to Flag a StoryLayer:
 1. __Broken__: If you try and fail to perform any actions with a StoryLayer, such as playing the StoryLayer, editing the StoryLayer, or using the StoryLayer in a StoryScape), you can flag the StoryLayer as broken.
 2. __Inappropriate__: If you see something in a StoryLayer that you feel is inappropriate, Flag it. The StoryLayer will not automatically be unpublished or deleted. An Administrator will determine what action should be taken.
 3. __Missing Metadata__: If a StoryLayer lacks key metadata, such as a Data Source or Data Quality Statement, Flag it. An Administrator may respond by unpublishing the StoryLayer until appropriate metadata is added.
-4. __Violates Terms__: StoryScapes users must abide by a set of Terms and Conditions XXXX. If you see anything that violates these Terms, Flag it.
+4. __Violates Terms__: StoryScapes users must abide by a set of Terms and Conditions. If you see anything that violates these Terms, Flag it.
 5. __Other Issue__: Finally, you are invited to Flag anything else you deem necessary. Just include some text to describe your reasoning.
 
 To submit your Flag, simply click on Flag tool on a StoryLayer page. Select the Flag option you prefer and add any descriptive text that might be helpful. Click Submit.
-
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
 
 ##### Rating a StoryLayer
 
@@ -60,9 +58,6 @@ The 5-star rating is another tool to help Storytellers determine if a StoryLayer
 
 To add your rating, simply find the rating tool on a StoryLayer page. Place your mouse on top of the star you'd like to assign, and Click.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
-
-
 ##### Commenting on a Storylayer
 
 Add a public Comment to a StoryLayer to communicate a message you feel all StoryScapes users need to be aware of when viewing a StoryLayer. For example, you might:
@@ -72,25 +67,18 @@ Add a public Comment to a StoryLayer to communicate a message you feel all Story
 
 To add your Comment, find the Share tab on a StoryLayer page. Simply type your Comment and click Post.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
-
-### Demonstration
-
-Now that you've learned how to peer review a StoryLayer, let's watch an example a user taking action to Peer Review a StoryLayer:
-
-Watch this video. VIDEO.
-
 ### Tasks
 
-Now it's your turn! Login to StoryScapes and a find a StoryLayer you would like to Peer Review. Take each of the following actions, and when complete share the link to the StoryLayer with a colleague:
+Now it's your turn! Login to StoryScapes and find a StoryLayer you would like to Peer Review. Take each of the following actions, and when complete share the link to the StoryLayer with a colleague:
 
-- [x] Add a rating to the StoryLayers
+- [x] Add a rating to the StoryLayer
 - [x] Make a comment on the StoryLayer
 - [x] Submit a flag and note the issue that should be addressed by an Administrator
 
-
 ## Lesson 2: Editing StoryLayer geometries
+
 ##### Objective
+
 In this Lesson, students will learn how to add, modify and delete feature geometries in a StoryLayer.
 
 ### Lecture
@@ -101,11 +89,7 @@ StoryLayers are comprised of features. Every feature in a StoryLayer has a geome
 
 In StoryScapes, you can edit (i.e. add, modify or delete) both geometry and attribute information for each feature.
 
-#### Editing Feature Geometries
-
-Let's start by learning to edit feature geometries. As we've already said, editing can involve adding new, modifying what exists, and deleting what exists.
-
-##### Adding New Feature Geometries
+#### Adding New Feature Geometries
 There are two ways to add new feature geometries to a StoryLayer:
 1. By adding one at a time
 2. By "appending" a large number of new features at once
@@ -114,9 +98,9 @@ _Add one new feature geometry_:
 
 When you want to make any kind of change to a StoryLayer, you begin by clicking "Edit" from the StoryLayer detail page.
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
+![](images/Screen Shot 2019-02-14 at 8.46.13 PM.jpg)\
 
-In the StoryScapes Editor you will see the following buttons on the left-hand side:
+In the StoryLayer Editor you will see the following buttons on the left-hand side:
 + Add Feature
 + Edit Feature
 + Metadata
@@ -124,37 +108,118 @@ In the StoryScapes Editor you will see the following buttons on the left-hand si
 + View history
 + Exit
 
-You can also select a basemap that provides the view on the map that you prefer.
+![](images/Screen Shot 2019-02-14 at 8.53.13 PM.jpg)\
 
-![SCREENSHOT](figures/Twopartsofthegeospatialdatamodel.png "Two parts of the geospatial data model")\
+To add one new feature, click Add Feature. A drawing tool will appear that lets you add a point feature for StoryLayers with points, or draw shapes for a StoryLayer with polygons.
 
-To add one new feature, click Add Feature.
+In this example we add a point to a StoryLayer depicting battles in the American Revolutionary War.
 
+![](images/Screen Shot 2019-02-14 at 8.58.37 PM.jpg)\
 
+After you've added a feature, a modal will appear where you can input time information for the feature as well as other attribute information. In this example we add a date for a hypothetical Revolutionary War battle in Halifax, Nova Scotia and give it the name 'Pretend Battle'
 
+![](images/Screen Shot 2019-02-14 at 8.59.03 PM.jpg)\
 
+Once the feature is edited, the action will be recorded in the `History` tab:
 
-### Demonstration
+![](images/Screen Shot 2019-02-14 at 9.14.04 PM.jpg)\
 
-Now that you've learned how to Edit the geometry of StoryLayer features, let's watch an example of a user performing these actions:
+And, now when the StoryLayer is played, the newly added "Pretend Battle" appears in Halifax, Nova Scotia:
 
-Watch this video. VIDEO.
+![](images/Screen Shot 2019-02-14 at 9.01.07 PM.jpg)\
+
+_Add many new feature geometries_:
+
+If you have many features ready to add to a StoryLayer, rather than adding them one by one in the editor, you can `Append` them all at once.
+
+To append features to a StoryLayer, first click `Edit Layer` and then `Append Data`:
+
+![](images/Screen Shot 2019-02-14 at 9.21.55 PM.jpg)\
+
+Doing so will bring up a modal where you can dowload a blank .csv or .shp file, depending on whether you are appending points (.csv) or polygons (.shp).
+
+![](images/Screen Shot 2019-02-14 at 9.43.01 PM.jpg)\
+
+Open the downloaded file, paste your features into it, and then  return to the modal where you can upload the file.
+
+![](images/Screen Shot 2019-02-14 at 9.46.54 PM.jpg)\
+
+Once you've done so, your appended features will appear as part of your StoryLayer.
+
+#### Deleting feature geometries
+
+If you see a feature in a StoryLayer that you believe is incorrect, you can delete it from the StoryLayer. To do so, simply click on the feature you want to delete. This will pop-up the feature's attribute information as well as a set of tools including a `Trashcan`. Click this to delete the feature.
+
+In this example, we delete the `Pretend Battle` in the American Revolutionary War StoryLayer that we created earlier.
+
+![](images/Screen Shot 2019-02-14 at 9.53.32 PM.jpg)\
+
+#### Modifying feature geometries
+
+You may find a feature that you don't think needs to be deleted, but just needs to be moved to a different location. To modify a feature geometry, simply click on a feature inside the StoryLayer editor, just as you did to delete a feature. On the pop-up, click the `Edit Geometries` option. In the example below we are preparing to modify our `Pretend Battle` of the American Revolutionary War in Halifax, Nova Scotia:
+
+![](images/Screen Shot 2019-02-14 at 10.04.10 PM.jpg)\
 
 ### Tasks
 
 Now it's your turn! Login to StoryScapes and a find a StoryLayer you would like to Edit. Take each of the following actions, and when complete share the link to the StoryLayer with a colleague:
 
 - [x] Add a new feature to the StoryLayer
-- [x] Modify the shape of a feature in a StoryLayer
+- [x] Modify the shape or location of a feature in a StoryLayer
 - [x] Delete a feature in a StoryLayer
 
 ## Lesson 3:
+
 ##### Objective
 
+In this Lesson students will learn how to edit attribute information about features in StoryLayers.
+
 ### Lecture
-### Demonstration
+
+A StoryLayer is like a Wiki article where everyone can improve quality and accuracy through continuous editing. StoryLayer editing lets us draw on the vast knowledge - the "cognitive surplus" - that we all have about various phenomena of change in the world.
+
+StoryLayers are comprised of features. Every feature in a StoryLayer has a geometry and attributes. The geometry determines how the feature appears on the map. Is it a point, line or polygon? And where is it located? The attributes determine the information we have _about_ the feature. For example, if your StoryLayer depicts schools in a town, you might have point geometries for each school location, and attributes for each school's name, student enrollment, grades served and whether the school os public or private.
+
+In StoryScapes, you can edit (i.e. add, modify or delete) both geometry and attribute information for each feature.
+
+##### Adding, modifying and deleting feature attribute information on the map
+
+If you have attribute information _about a feature_ that you'd like to add, or you see attribute information that needs to be changed or removed, one way to do this is to click on the feature in the StoryLayer editor and click `Edit Attributes`. This will bring up a modal where you can add, modify or delete attribute information. In this example we modify the name of 'Pretend Battle' to be 'Great Pretend Battle':
+
+![](images/Screen Shot 2019-02-14 at 10.14.30 PM.jpg)\
+
+##### Adding, modifying and deleting feature attribute information from the table
+
+Another way to make changes to feature attributes is from the `Table View`. To access the Table, click `View Table` on the left-hand sidebar of the StoryLayer editor:
+
+![](images/Screen Shot 2019-02-14 at 10.23.16 PM.jpg)\
+
+From the Table View you can add, modify or delete information in individual cells, like a spreadsheet:
+
+![](images/Screen Shot 2019-02-14 at 9.00.02 PM.jpg)\
+
 ### Tasks
+
+Now it's your turn! Login to StoryScapes and a find a StoryLayer you would like to Edit. Take each of the following actions, and when complete share the link to the StoryLayer with a colleague:
+
+- [x] Add, modify or delete attribute text on a feature in the StoryLayer by clicking the feature on the map.
+- [x] Add, modify or delete attribute text on a feature in the StoryLayer by using the Table.
+- [x] Make sure your changes are reflected in the History tab.
 
 ## Conclusion
 
+In this Module you learned the skills necessary to become a Curator for the StoryScapes community. You learned to peer review StoryLayers by doing things like adding comments or submitting Flags. And, you learned to edit feature geometries and attributes. The StoryScapes community depends on Curators who are both knowledgeable and committed to making regular edits. So efforts are appreciated!
+
 ## Discussion Questions
+
+Before moving on to the next Module, reflect independently or in a group on the following questions:
+
+1. What kind of data projects can you think of that would benefit from the 'crowd-editing' model that StoryScapes provides?
+
+2. What kind of data projects should not be subject to any curation or editing activities? What makes these projects different than others/
+
+3. What are some of the risks involved with StoryLayer curation that need to be attended to?
+
+4. Are there other examples of applications that offer data curation that have worked well? What factors do you attribute to success?
+
+5. What other comments, questions or concerns do you have about this Module?

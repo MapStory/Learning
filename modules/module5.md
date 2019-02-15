@@ -21,31 +21,30 @@ This module includes the following lessons:
 +	Lesson 2 – Using Icons Commons for point Storylayers
 +	Lesson 3 – Adding StoryPins with Media
 
-Each lesson is planned to take about thirty minutes to complete. Combined, this module should take two hours to complete (assuming ten minute breaks between each Lesson).
-
 ## Lesson 1: Using Choropleth and Graduated styling for StoryLayers
 
 ##### Objective
-In this Lesson, students will learn to add Choropleth and Graduate styling to StoryLayers.
+
+In this Lesson, students will learn to add Choropleth and Graduated styling to StoryLayers.
 
 ### Lecture
 
 The StoryScape composer offers four different styling options: Simple, Unique, Choropleth and Graduated. In a previous Module we learned how to use Simple and Unique styling.
 
-Choropleth and Graduated styling are special because they cannot be used with just any StoryLayer. Choropleth and Graduated styling require that a StoryLayer have at least one attribute that is _numerical_, such as the number of students in a school, or the number of people injured in a conflict. Additionally, the numerical attribute should also be _ordinal_, meaning that bigger numbers should indicate more than lesser numbers. Numbers that serve simply to identify a feature are not ordinal. Choropleth and Graduated styling uses these numerical figures to generate different styling based on the levels the feature has on the numerical attribute.
+Choropleth and Graduated styling are special because they cannot be used with just any StoryLayer. Choropleth and Graduated styling require that a StoryLayer have at least one attribute that is _numerical_, such as the number of students in a school, or the number of people injured in a conflict. Additionally, the numerical attribute should also be _ordinal_, meaning that bigger numbers should indicate more than lesser numbers. Numbers that serve simply to identify a feature are not ordinal. Choropleth and Graduated styling uses these ordinal numerical figures to generate different styling based on the levels the feature has on the numerical attribute.
 
 You can determine if a StoryLayer has numerical attributes by looking at the StoryLayer detail page on the Attributes tab.
 
 ##### Using Choropleth styling
-Choropleth styling assigns color _hue_ to a feature based on its level on a particular numerical attribute. A color ramp or gradient specifies the color hue different features in the StoryLayer receive. For example, a choropleth color gradient based on _red_ might assign lighter hues of red to features with lower magnitudes on the attriubte and darker hues of red for features with higher magnitudes on the attribute.
+Choropleth styling assigns color _hue_ to a feature based on its level on a particular numerical attribute. A color ramp or gradient specifies the color hue different features in the StoryLayer receive. For example, a choropleth color gradient based on _red_ might assign lighter hues of red to features with lower magnitudes on the attribute and darker hues of red for features with higher magnitudes on the attribute.
 
 Below we show a chapter from a StoryScape that depicts the numbers of civilians killed in the Syrian Civil War by governorate (a subnational unit in Syria). As the number of civilians killed in a governorate increases, the shade of red used to color the governorate becomes a darker red, or even a purple.
 
 ![](images/Screen Shot 2019-01-27 at 1.50.10 PM.jpg)\
 
-To use Choropleth styling when composing a StoryScape, first make sure you've added a StoryLayer to your StoryScape that has a numerical attribute. If you're not sure if a StoryLayer has a numerical attribute to use with Choropleth styling, you can exit composer and go to the StoryLayer's page and look at the table of its attributes.
+To use Choropleth styling when composing a StoryScape, first make sure you've added a StoryLayer to your StoryScape that has an ordinal numerical attribute. If you're not sure if a StoryLayer has a numerical attribute to use with Choropleth styling, you can exit composer and go to the StoryLayer's page and look at the table of its attributes.
 
-You can see below that the StoryLayer about Syrian governorates used in the example above  has several attributes with numerical data.
+You can see below that the StoryLayer about Syrian governorates used in the example above has several attributes with numerical data.
 
 ![](images/Screen Shot 2019-01-27 at 1.58.09 PM.jpg)\
 
@@ -80,12 +79,12 @@ _Under the `Classification` header_:
 - Select the number 5. This will divide the data into five color bins.
 - Select a color ramp. Here we select the red-blue color ramp. Lower numbers will be a lighter red. as numbers increase, they will appear as a darker red, purple and blue at the highest level.
 - Select the `Natural Breaks` method. This will divide the data into five equally sized groups (since I selected five earlier).
-  - Note, StoryScapes offers five different `Methods` for organizing data into choropleth ramps. Here's what each of them means:
-    - __Natural Breaks__:
-    - __Equal Interval__:
-    - __Quantile__:
-    - __Geometric Interval__:
-    - __Standard Deviation__:
+  - Note, StoryScapes offers five different `Methods` for organizing data into choropleth ramps:
+    - _Natural Breaks_:
+    - _Equal Interval_:
+    - _Quantile_:
+    - _Geometric Interval_:
+    - _Standard Deviation_:
 
 _Under the `Stroke` header_:
 
@@ -155,17 +154,12 @@ Fourth, customize the `Label` for your symbol, if you would like a label. For ex
 Finally, under the `Rules` section, StoryScapes will automatically generate a feature size for each of the group bins you selected. In this example, we have five group bins that have been naturally broken up. Bin 1 includes ISIS attacks with 0-19 casualties. Bin 2 includes ISIS attacks with 19-59 casualties. And so forth. As a user, I can manually change the preset feature sizes. In this example, we've increased the feature sizes and left a 5-point interval between each. So, Bin 1 with the least casualties has a feature size of 7, while Bin 5 with the most casualties (range of 347-498) has a feature size of 27.
 
 Here is our ISIS attacks StoryLayer with graduated style at a global view:
+
 ![](images/Screen Shot 2019-01-27 at 3.22.48 PM.jpg)\
 
 And here we've zoomed in a bit more over Europe, the Middle East and North Africa to more clearly depict the different graduated sizes of each ISIS attack feature. We can clearly see that some more major attacks occured in Paris, Nigeria, and Turkey and that many smaller attacks have occurred along the North African coast.
 
 ![](images/Screen Shot 2019-01-27 at 3.23.35 PM.jpg)\
-
-### Demonstration
-
-Now that you've learned how to add Graduated and Choropleth styling to a StoryLayer in the StoryScapes composer, let's watch an example of a user performing these actions:
-
-Watch this video. VIDEO.
 
 ### Tasks
 
@@ -177,11 +171,12 @@ Now it's your turn! If possible, return to the StoryScape you worked on in the C
 
 ## Lesson 2: Using Icons Commons for point Storylayers
 ##### Objective
+
 In this lesson, students will learn how to import icons and apply icons to styles for point StoryLayers.
 
 ### Lecture
 
-Icons can be applied points when using the Simple style in the StoryScapes composer. Icons help to communicate the type of data represented by the points. For example, you might use a red cross icon on a StoryLayer that shows the distribution of hospitals.
+Icons can be applied to points when using the Simple style in the StoryScapes composer. Icons help to communicate the type of data represented by the points. For example, you might use a red cross icon on a StoryLayer that shows the distribution of hospitals.
 
 StoryScapes has a built in 'Icons Commons' where users can upload icons that any other users, in turn, can apply to styles for point StoryLayers in a StoryScape.
 
@@ -237,12 +232,6 @@ In this example, we select an icon of the Russian flag and click `Ok`. Now, the 
 
 ![](images/Screen Shot 2019-01-27 at 5.50.56 PM.jpg)\
 
-### Demonstration
-
-Now that you've learned how to add custom icons to point StoryLayers in the StoryScapes composer, let's watch an example of a user performing these actions:
-
-Watch this video. VIDEO.
-
 ### Tasks
 Now it's your turn! Complete the following:
 
@@ -252,20 +241,22 @@ Now it's your turn! Complete the following:
 - [x] _Stretch Goal_: Upload a new .svg file to the StoryScapes Icon Commons, if you have access to one! Go to your StoryScapes profile to confirm the Icon is listed there.
 
 ## Lesson 3: Adding StoryPins with Media
+
 ##### Objective
+
 In this lesson, students will learn how to add media, such as images and videos, to StoryPins in a StoryScape.
 
 ### Lecture
 
-To review, StoryPins let you add more qualitative information that doesn't quite make sense as part of the StoryLayer data. For example, perhaps you want a pin with a newspaper article, or you want to pin a video that helps explain what the viewer is seeing in your StoryScape. Or, maybe you just want to add some clarifying text that a viewer can click to understand more about something at a specific moment in time.
+To review, StoryPins let you add more qualitative information that doesn't quite make sense as part of the StoryLayer data. For example, perhaps you want a StoryPin with a newspaper article, or you want to pin a video that helps explain what the viewer is seeing in your StoryScape. Or, maybe you just want to add some clarifying text that a viewer can click to understand more about something at a specific moment in time.
 
 In Module 2 we learned how to add StoryPins with text to a StoryScape. Just like with StoryPins that only have text, StoryPins with media can be added to a StoryScape one at a time or in bulk.
 
 ##### Adding StoryPins with Media one at a time
 
-To add StoryPins with media one at a time, just give your pin a title and description and add it to the map. Once it’s added to the map, define a start and end time, and determine if you want it to appear on the map and/or on the timeline. _*Note, if you need more review in completing these basic StoryPin steps, refer back to Module 2_.
+To add StoryPins with media one at a time, just give your StorPin a title and description and add it to the map. Once it’s added to the map, define a start and end time, and determine if you want it to appear on the map and/or on the timeline. _*Note, if you need more review in completing these basic StoryPin steps, refer back to Module 2_.
 
-To add an image or video to your StoryPin, you will paste the _embed_ link for that media from an approved StoryScapes media service XXXX. Once the media is added, you can customize it in the following ways:
+To add an image or video to your StoryPin, you will paste the _embed_ link for that media from an approved StoryScapes media service. Once the media is added, you can customize it in the following ways:
 
 - Customize the size of the StoryPin pop-up window.
 - If you have a video, set the offset point where you want the video to begin playing. For example, you may want your video to begin 30 seconds after the actual start of the video.
@@ -282,12 +273,6 @@ In this example, we have added a StoryPin with a video that highlights how Russi
 
 To add lots of StoryPins with media at once, you will download a blank .CSV file with pre-set column headers for the information you need to have for each StoryPin. This includes the embed link you need to add for your media. Once you’ve populated the CSV with your StoryPin information, return to the composer and upload your StoryPins. See Module 2 for more description of this, if you need review. Once the StoryPins are added to your StoryScape, you will likely need to click into each StoryPin individually and confirm the settings are as you want them to be.
 
-### Demonstration
-
-Now that you've learned how to add StoryPins with media to a StoryScape, let's watch an example of a user performing these actions:
-
-Watch this video. VIDEO.
-
 ### Tasks
 
 Now it's your turn! Return to the StoryScape you've been working on throughout the course. Add a new StoryPin that requires media (either an image or a video). Add the proper embed link and customize the StoryPin. Save and re-publish your StoryScape. Share the StoryScape link with a colleague to review to confirm the StoryPin media appears as it should.
@@ -300,10 +285,14 @@ By combining these new skills with the StoryScapes composing skills you learned 
 
 ## Discussion Questions
 
-Before moving on to the next Module, take fifteen minutes to reflect independently or in a group on the following questions:
+Before moving on to the next Module, reflect independently or in a group on the following questions:
 
-- How does changing the spatial and temporal resolution of a StoryScape with StoryFrames give the viewer of your StoryScape a different impression of what is going on in the data?
-- Similarly, how can different styling approaches make a StoryScape seem to tell different stories? Can you provide an example?
-- Now that you have a more complete understanding of hwo to compose a StoryScapes, what kinds of skills do you think are most important for a person to have to be a strong StoryTeller?
-- How might StoryScapes help you bring in lessons from history into your work? Why might this be important?
-- What other questions are you still left with at this stage about the process of composing a StoryScape?
+1. When might it be helpful to add qualitative information in the form of StoryPins to a StoryScape?
+
+2. Similarly, how can different styling approaches make a StoryScape seem to tell different stories? Can you provide an example?
+
+3. Now that you have a more complete understanding of how to compose a StoryScapes, what kinds of skills do you think are most important for a person to have to be a strong StoryTeller?
+
+4. How might StoryScapes help you bring in lessons from history into your work? Why might this be important?
+
+5. What other questions are you still left with at this stage about the process of composing a StoryScape?
