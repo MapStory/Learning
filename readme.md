@@ -1,7 +1,9 @@
 # StoryScapes101 - Introduction to the StoryScapes platform
 -----------
 
-This course curriculum includes 6 modules and an Instructor Guide to support anyone tasked with delivering the StoryScapes101 course
+This course curriculum includes 6 modules and an Instructor Guide to support anyone tasked with delivering the StoryScapes101 course.
+
+To utilize the course, download the PDF version of the Modules available in this repository.
 
 ### Course Modules & Lessons
 
