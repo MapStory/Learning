@@ -1,5 +1,5 @@
 # StoryScapes101: Introduction to the StoryScapes platform
-## Module 0- Instructor's Guide
+## Module 0 - Instructor's Guide
 
 Document Version: 01/01/2019
 
@@ -78,7 +78,7 @@ To successfully facilitate this course, Instructors should have _at minimum_ the
   - Using search to find content and using published content to convey meaning in presentations
 - Have access to the StoryScapes platform and/or a training version of the platform
   - *_Note, ideally the instructor will have access to Organizer status for an Initiative and Organization account so that learners can practice managing these accounts, as outlined in Module 6_
-- Have access to the test data that supports lessons around collecting and importing data in Module 3. If test data is not available, the instructor can use their own.
+- Have access to the test data that supports the lessons. Test data is available in the Data Folder on the Github repository - https://github.com/MapStory/Learning. If test data is not available, the instructor can use their own.
 
 ## Section 2 – Instructor Notes
 
@@ -111,6 +111,7 @@ _Learner Prequisites_
 - All learners should have access to a personal computer with access to the internet.
 - Learners' computers should have _at minimum_ access to a program for working with tabular data that can produce comma-separated files, such as Microsoft Excel. Ideally, learners will also have access to a GIS software program that can produce Shapefiles, such as ArcMap or QGIS.
 - Learners should have authorization credentials to log in to the StoryScapes platform or the Instructor should be able to provide learners access to a training version of StoryScapes.
+- Learners should have access to the test data required for the lessons and/or similar types of data of their own to use during activities.
 
 ### Course Agenda
 
@@ -150,7 +151,7 @@ First, direct them to where they can download the Module and Lesson materials. T
 
 Learners should download the pdfs for all six Modules at the outset, so you can confirm learners have access to the learning material for the whole course before diving in.
 
-Second, learners should go ahead and download the test data that will be used in Module 3 focused on collecting StoryLayer data. Doing this at the outset of the class will help surface any issues learners may have right away, before you get too far in the course.
+Second, learners should go ahead and download the test data that will be used in the Modules. Doing this at the outset of the class will help surface any issues learners may have right away, before you get too far in the course.
 
 ### The mission of StoryScapes
 

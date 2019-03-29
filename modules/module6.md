@@ -51,31 +51,21 @@ Community Initiative pages are managed by designated Initiative Organizers. Orga
 
 If you have a Community Initiative you would like to see launched on StoryScapes, or that you would like to organize yourself, you will need to email an administrator. An administrator will then create the Community Initiative and add you as an Organizer. This will give you the ability to manage the Community Initiative page.
 
-##### Managing a Community Initiative Page
+### Activity
 
-If you have been given Organizer status on a Community Initiative, click `Manage` on the Community Initiative page to customize basic information about your Community Initiative.
+To complete this activity, you will need have been given Organizer status on a Community Initiative.
+
+1. Click `Manage` on the Community Initiative page to customize basic information about your Community Initiative.
 
 ![](images/Screen Shot 2019-01-24 at 11.48.18 AM.jpg)\
 
-To add StoryLayers and StoryScapes to your Community Initiative page, you simply go to the StoryLayer or StoryScape page. You will see an option to add the content to the Community Initiative that you are an Organizer for.
+2. To add StoryLayers and StoryScapes to your Community Initiative page, go to the StoryLayer or StoryScape page. You will see an option to add the content to the Community Initiative that you are an Organizer for.
 
 ![](images/Screen Shot 2019-01-24 at 12.33.44 PM.jpg)\
 
-StoryTellers can also request to become Members of your Community Initiative. This is simply a way for you to indicate people that are supportive of your Community Initiative and are helping with the work in some way. A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page. You can accept or reject these requests from the management page for the Community Initiative.
+3. StoryTellers can also request to become Members of your Community Initiative. This is simply a way for you to indicate people that are supportive of your Community Initiative and are helping with the work in some way. A StoryTeller can request to become a Member by clicking `Join This Initiative` on any Community Initiative page. You can accept or reject these requests from the management page for the Community Initiative.
 
 ![](images/Screen Shot 2019-01-24 at 12.37.20 PM.jpg)\
-
-### Tasks
-
-Now it's your turn! Complete the following tasks:
-
-- [x] First, find a Community Initiative on the Explore page and request to become a Member
-- [x] Second, think of a Community Initiative that you would like to see launched in StoryScapes and share your idea with a colleague.
-
-_The following tasks can be completed if your course instructor shares login information for a temporary user account with rights as an Initiative Organizer_:
-
-- [x] Log off from your current account and log back on to StoryScapes using the test account provided by your course instructor. Go to this Community Initiative page and make one improvement to the profile.
-- [x] Add at least one StoryLayer or StoryScape to the Community Initiative.
 
 ## Lesson 2: Managing Organization Accounts
 ##### Objective
@@ -92,40 +82,29 @@ On the Organization Account page you will see the StoryLayers and StoryScapes th
 
 ![](images/Screen Shot 2019-01-24 at 12.52.54 PM.jpg)\
 
-##### Setting up an Organization Account
+#### Setting up an Organization Account
 
 When you are ready to set up an Organization Account for your work unit, you will contact a StoryScapes administrator. An administrator will work with you, or the appropriate point of contact, to get the Organization Account created. Once this is done, this will give you, or the appropriate point of contact, the ability to manage the Organization Account.
 
-##### Managing an Organization Account
+### Activity
 
-If you have been given Organizer status on an Organization page, you click `Manage` on the public Organization page to customize basic information about your Organization.
+To complete this activity, you will need have been given Organizer status on an Organization page.
+
+1. If you have been given Organizer status on an Organization page, you click `Manage` on the public Organization page to customize basic information about your Organization.
 
 ![](images/Screen Shot 2019-01-24 at 12.52.54 PM.jpg)\
 
-To add StoryLayers and StoryScapes to your Organization page, you simply go to the StoryLayer or StoryScape page. You will see an option to add the content to the Organization that you are an Organizer for.
+2. To add StoryLayers and StoryScapes to your Organization page, you simply go to the StoryLayer or StoryScape page. You will see an option to add the content to the Organization that you are an Organizer for.
 
 ![](images/Screen Shot 2019-01-24 at 12.56.23 PM.jpg)\
 
-StoryScapes users can also request to become Members of your Organization. This is simply a way for you to indicate people that are involved in your Organization. A StoryTeller can request to become a Member by clicking `Join This Organization` on any Organization page.
+3. StoryScapes users can also request to become Members of your Organization. This is simply a way for you to indicate people that are involved in your Organization. A StoryTeller can request to become a Member by clicking `Join This Organization` on any Organization page.
 
 ![](images/Screen Shot 2019-01-30 at 6.24.03 PM.jpg)\
 
 You can accept or reject these requests from the management page for the Organization.
 
 ![](images/Screen Shot 2019-01-30 at 6.24.44 PM.jpg)\
-
-### Tasks
-
-Now it's your turn!
-
-- [x] First, find an Organization Account on the Explore page and request to become a Member
-- [x] Second, think of an organization that might benefit from having an Organization Account in StoryScapes. Share your idea with a colleague.
-
-_The following tasks can be completed if your course instructor shares login information for a temporary user account with rights as a manager of an Organization Account_:
-
-- [x] Log off from your current account and log back on to StoryScapes using the test account provided by your course instructor. Go to this Organization Account page and make one improvement to the profile.
-
-- [x] Add at least one StoryLayer or StoryScape to the Organization Account.
 
 ## Conclusion
 

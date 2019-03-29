@@ -20,7 +20,7 @@ This module includes the following lessons:
 
 +	Lesson 1 – Importing point StoryLayers
 +	Lesson 2 – Importing polygon StoryLayers
-+	Lesson 3 – Write High Quality Metadata
++	Lesson 3 – Writing High Quality Metadata
 
 ## Lesson 1: Importing point StoryLayers
 
@@ -60,37 +60,35 @@ Required formatting
 	- yyyy-MM-dd
 	- yyyy-MM
 
-Here is an example of a dataset that is ready for import into StoryScapes. See: `module-3-csv-points.csv`
+### Activity
+
+This example uses a simple csv point dataset. To access it, go to the Data Folder and download `data/module-3-csv-points.csv`
 
 ![](images/sample-csv-data.JPG "See module-3-csv-points.csv")\
 
-#### Importer Modal
+1. Once you have your data prepared, go to "Create" and "Import StoryLayer" at the top of your screen.
 
- Once you have your data prepared, the Importer modal will walk you through the following steps:
+2. Upload your data file
 
- 1. Name your StoryLayer.
+3. Name your StoryLayer.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-4.JPG "Name your StoryLayer")\
+ ![](images/Import-Wizard-CSV-4.JPG "Name your StoryLayer")\
 
- 2. Confirm that the storylayer has time attributes.
+4. Confirm that the storylayer has time attributes.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-5.JPG "Select StoryLayer Time Attribute")\
+ ![](images/Import-Wizard-CSV-5.JPG "Select StoryLayer Time Attribute")\
 
- 3. Configure time information.
+5. Configure time information.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-6.JPG "Select StoryLayer Time Attribute")\
+ ![](images/Import-Wizard-CSV-6.JPG "Select StoryLayer Time Attribute")\
 
- ~~4. Enable versioned editing.~~
+6. Enable versioned editing.~~
 
- ~~![SCREENSHOT](images/Import-Wizard-CSV-X.JPG "Enable Version Editing")\~~
+ ~~![](images/Import-Wizard-CSV-X.JPG "Enable Version Editing")\~~
 
- 5. Finalize upload.
+7. Finalize upload.
 
- ![SCREENSHOT](images/Import-Wizard-CSV-7.JPG "Confirm Upload")\
-
-### Tasks
-
-Now it's your turn! Try importing a point-based StoryLayer of your own. Try finding a dataset by searching publicly available repositories like the ones linked to below, or maybe you have access to some data of your own.
+ ![](images/Import-Wizard-CSV-7.JPG "Confirm Upload")\
 
 ## Lesson 2: Importing Polygon StoryLayers
 
@@ -109,13 +107,13 @@ Importing a polygon layer with a Shapefile is very similar to importing a point 
 
 A key difference is that you must first zip the constitutent files into a single zipped files.
 
-for example, if you export your shapefile you will have several files that are siblings of each other
+For example, if you export your shapefile you will have several files that are siblings of each other
 
-![SCREENSHOT](images/SHP-Files-1.JPG)\
+![](images/SHP-Files-1.JPG)\
 
 When you zip these files, make sure to include _only_ the `SHP`, `SHX`, `DBF`, and `PRJ` files.
 
-![SCREENSHOT](images/SHP-Files-2.JPG)\
+![](images/SHP-Files-2.JPG)\
 
 #### A Note on Temporal Data Format
 
@@ -123,19 +121,33 @@ StoryScapes reads a temporal attribute (or two temporal attributes) to iterate o
 
 So Data like the following:
 
-![SCREENSHOT](images/Temporal-Data-1.JPG)\
+![](images/Temporal-Data-1.JPG)\
 
 Would become something like this:
 
-![SCREENSHOT](images/Temporal-Data-2.JPG)\
+![](images/Temporal-Data-2.JPG)\
 
-### Tasks
+### Activity
 
-Now it's your turn! Try importing a Shapefile of your own. Try finding a dataset by searching publicly available repositories or maybe you have access to some data of your own.
+Try importing a Shapefile of your own. In the Data folder we provide a pre-zipped dataset ready for import. Its the ISIS Area of Territorial Control dataset that is used in Module 2. Access the data at `data/changing_areas_of_isis_control.zip`.
+
+Follow the same steps you used in the previous lesson:
+
+1. Go to "Create" and "Import StoryLayer" at the top of your screen.
+
+2. Upload your data file
+
+3. Name your StoryLayer.
+
+4. Confirm that the storylayer has time attributes.
+
+5. Configure time information.
+
+6. Enable versioned editing.
+
+7. Finalize upload.
 
 ## Lesson 3: Writing High-Quality metadata
-
-#### Write High-Quality Metadata
 
 #### Objective
 
@@ -156,21 +168,21 @@ Completing high-quality metadata (or “data about the data”) for StoryLayers 
 
 The Metadata Modal also allows the StoryLayer owner to determine if the StoryLayer should be published and therefore viewable by anyone, or private and only viewable by the StoryLayer owner. If you own the StoryLayer, you can return to the Metadata Modal and update the metadata at any time.
 
-### Tasks
+### Activity
 
-Now it's your turn! Go to one of the StoryLayers you imported in a previous lesson and click `Edit StoryLayer` and then `Metadata`. Take the time to write as high-quality metadata as you can, paying particular attention to your data sources.
+Now it's your turn! Go to one of the StoryLayers you imported in a previous lesson and click `Edit StoryLayer` and then `Metadata`. Take the time to write as high-quality metadata as you can. Note the questions where you don't have good responses, and think about what kind of strategies you would undertake to find answers for these questions.
 
 ## Conclusion
 
 Over the course of this module, you've learned how to get data from files and schema uploaded and imported into the platform. You've also seen how to update and maintain good metadata which is important for data validity and usability.
 
-This creates the foundation for developing rich and meaningful storyscapes.
+This creates the foundation for developing rich and meaningful StoryScapes.
 
 ## Discussion Questions
 
 Before moving on to the next Module, reflect independently or in a group on the following questions:
 
-1. What kids of data sources are you aware of that we could look to for data to import into StoryScapes?
+1. What kids of data sources are you aware of that could be accessed for data to import into StoryScapes?
 
 2. What are some of the issues that we need to think about in terms of data that is appropriate or inappropriate for import into StoryScapes?
 
